@@ -1,0 +1,527 @@
+{
+  "schemaVersion": 1,
+  "description": "Original Academic IELTS Reading practice content for IELTS Quest. Not an official IELTS test.",
+  "passages": [
+    {
+      "id": "academic-urban-forests-01",
+      "pathway": "Academic",
+      "level": 1,
+      "zone": "IELTS Reading Arena",
+      "icon": "📖",
+      "title": "Urban Forests and City Temperatures",
+      "intro": "How carefully planned trees can change the urban environment",
+      "paras": [
+        "Cities often record higher temperatures than nearby rural areas. Roads, roofs and pavements absorb energy from sunlight and release it slowly, while limited vegetation reduces shade and the cooling effect of evaporation. This pattern, commonly called the urban heat island effect, can make hot weather more uncomfortable and increase demand for air conditioning.",
+        "Urban forestry programmes attempt to address this problem by planting and protecting trees along streets, around schools and in public parks. A tree shades the ground and nearby buildings; water released through its leaves also cools the surrounding air. In some locations, tree canopies can make walking routes more pleasant and encourage residents to spend time outdoors. Trees may also intercept rainfall and provide habitat for birds and insects.",
+        "Planting trees is not a simple matter of choosing the fastest-growing species. Young trees need water during establishment, roots require adequate space, and some species struggle with pollution or prolonged drought. A tree that survives for decades may provide far more benefit than one that grows quickly but dies after a few summers. Maintenance budgets therefore matter as much as the number of saplings planted.",
+        "The distribution of shade is another concern. Wealthier neighbourhoods sometimes have more mature trees, while districts with fewer resources may have wide paved streets and limited green space. Some councils now map canopy cover and prioritise areas with high surface temperatures and vulnerable residents. Researchers caution, however, that planting targets alone cannot show whether a programme is succeeding: survival rates, species diversity and access to shaded public space must also be measured."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is one reason cities can be hotter than nearby rural areas?",
+          "a": 0,
+          "why": "Hard surfaces absorb solar energy and release it slowly.",
+          "ev": "“Roads, roofs and pavements absorb energy from sunlight and release it slowly.”",
+          "opts": [
+            "Buildings and pavements retain heat.",
+            "Rural areas receive less sunlight.",
+            "City trees release too much heat.",
+            "Urban residents use less electricity."
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The urban heat island effect can increase the need for air conditioning.",
+          "a": 0,
+          "why": "The first paragraph directly links urban heat with increased air-conditioning demand.",
+          "ev": "“increase demand for air conditioning.”",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for Paragraph B.",
+          "a": 0,
+          "why": "Paragraph B lists shade, cooling, rainfall interception and habitat.",
+          "ev": "“A tree shades the ground… cools the surrounding air.”",
+          "opts": [
+            "The benefits trees can provide",
+            "Why all trees grow at the same rate",
+            "A history of rural farming"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The fastest-growing tree species always provide the greatest long-term benefit.",
+          "a": 1,
+          "why": "The passage says long-term survival may matter more than rapid growth.",
+          "ev": "“may provide far more benefit than one that grows quickly but dies.”",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "During establishment, young trees need ______.",
+          "a": [
+            "water",
+            "regular watering"
+          ],
+          "why": "Young trees need water while they become established.",
+          "ev": "“Young trees need water during establishment.”"
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph discusses unequal access to tree cover?",
+          "a": 3,
+          "why": "Paragraph D describes canopy differences between wealthier and under-resourced districts.",
+          "ev": "“Wealthier neighbourhoods sometimes have more mature trees.”",
+          "opts": [
+            "Paragraph A",
+            "Paragraph B",
+            "Paragraph C",
+            "Paragraph D"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer suggests that counting saplings is enough to judge a tree-planting programme.",
+          "a": 1,
+          "why": "The writer says targets alone are insufficient and several other measures are needed.",
+          "ev": "“planting targets alone cannot show whether a programme is succeeding.”",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one group of animals that trees may provide habitat for.",
+          "a": [
+            "birds",
+            "insects"
+          ],
+          "why": "The passage gives birds and insects as examples.",
+          "ev": "“provide habitat for birds and insects.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which factor is specifically linked to long-term tree survival?",
+          "a": 0,
+          "why": "The passage highlights suitable species, water, space and maintenance budgets.",
+          "ev": "“Maintenance budgets therefore matter as much as the number of saplings planted.”",
+          "opts": [
+            "Species suitability and maintenance",
+            "The colour of nearby buildings",
+            "The number of cars in a city"
+          ]
+        },
+        {
+          "type": "Summary completion",
+          "q": "Councils may map canopy cover and prioritise areas with high surface temperatures and ______ residents.",
+          "a": [
+            "vulnerable"
+          ],
+          "why": "The passage says vulnerable residents may be prioritised.",
+          "ev": "“areas with high surface temperatures and vulnerable residents.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What is the main purpose of Paragraph C?",
+          "a": 0,
+          "why": "Paragraph C focuses on conditions and resources required for trees to survive.",
+          "ev": "“roots require adequate space… Maintenance budgets therefore matter.”",
+          "opts": [
+            "To explain practical challenges in tree planting",
+            "To argue that cities should remove parks",
+            "To compare tree prices in different countries",
+            "To describe how birds migrate"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage identifies one tree species as suitable for every city.",
+          "a": 1,
+          "why": "It says species suitability depends on local conditions and does not name a universal species.",
+          "ev": "“some species struggle with pollution or prolonged drought.”",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "One additional measure of success is tree ______ rates.",
+          "a": [
+            "survival"
+          ],
+          "why": "Survival rates are listed among the measures that should be monitored.",
+          "ev": "“survival rates, species diversity and access…”"
+        }
+      ]
+    },
+    {
+      "id": "academic-remote-work-01",
+      "pathway": "Academic",
+      "level": 2,
+      "zone": "IELTS Reading Arena",
+      "icon": "📖",
+      "title": "Remote Work and the Knowledge Economy",
+      "intro": "What changes when employees work away from a central office",
+      "paras": [
+        "Digital communication tools have made remote work possible for a much wider range of occupations than in the past. Employers may reduce office costs and recruit people who live far from company headquarters. Employees can save commuting time and, where schedules are flexible, organise work around personal responsibilities. These advantages are not shared equally: jobs involving equipment, face-to-face care or physical materials often cannot be performed remotely.",
+        "Early discussions sometimes treated remote work as a simple choice between productivity and distraction. Evidence is more complicated. Some workers report longer periods of concentration at home, while others miss quick conversations that help solve problems. Productivity can also be difficult to measure when work depends on creativity, collaboration or long-term projects rather than easily counted tasks.",
+        "Managers have had to reconsider how teams share information. Written decisions, clear project records and regular one-to-one conversations can prevent colleagues from becoming isolated. Yet adding meetings to compensate for distance may fragment the working day. Teams often benefit from agreeing which communication requires an immediate response and which can wait until a suitable time.",
+        "The effect on cities remains uncertain. Fewer daily commuters may reduce pressure on transport at peak times, but businesses near office districts can lose customers. Some employers now use hybrid arrangements, asking staff to attend in person for activities that benefit from direct interaction while allowing focused work elsewhere. The most effective policy is likely to depend on the tasks involved, the needs of employees and the quality of management rather than on a universal rule."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "Which workers may be unable to work remotely?",
+          "a": 0,
+          "why": "The passage names occupations involving equipment, care or physical materials.",
+          "ev": "“jobs involving equipment, face-to-face care or physical materials…”",
+          "opts": [
+            "Those whose jobs require physical equipment or face-to-face care",
+            "All employees in large companies",
+            "Only workers who live far away",
+            "People who use written communication"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Remote work benefits every employee to the same extent.",
+          "a": 1,
+          "why": "The passage explicitly says advantages are not shared equally.",
+          "ev": "“These advantages are not shared equally.”",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for Paragraph B.",
+          "a": 0,
+          "why": "Paragraph B compares varied experiences and measurement challenges.",
+          "ev": "“Evidence is more complicated.”",
+          "opts": [
+            "Why productivity is difficult to generalise",
+            "How office rent is calculated",
+            "The invention of video calls"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer believes remote work always increases productivity.",
+          "a": 1,
+          "why": "The writer describes mixed experiences and rejects a simple universal conclusion.",
+          "ev": "“Some workers report… while others miss quick conversations.”",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "At home, some workers report longer periods of ______.",
+          "a": [
+            "concentration"
+          ],
+          "why": "The passage states that some workers concentrate for longer at home.",
+          "ev": "“longer periods of concentration at home.”"
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph recommends recording decisions and project information clearly?",
+          "a": 2,
+          "why": "Paragraph C recommends written decisions and clear project records.",
+          "ev": "“Written decisions, clear project records…”",
+          "opts": [
+            "Paragraph A",
+            "Paragraph B",
+            "Paragraph C",
+            "Paragraph D"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage says every remote team should hold a meeting each morning.",
+          "a": 2,
+          "why": "No specific daily meeting schedule is given.",
+          "ev": "The passage discusses regular conversations but no universal morning schedule.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What may businesses near office districts lose when commuter numbers fall?",
+          "a": [
+            "customers",
+            "some customers"
+          ],
+          "why": "The passage says nearby businesses can lose customers.",
+          "ev": "“businesses near office districts can lose customers.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which arrangement asks staff to attend in person for selected activities?",
+          "a": 0,
+          "why": "Hybrid arrangements combine attendance with work elsewhere.",
+          "ev": "“Some employers now use hybrid arrangements…”",
+          "opts": [
+            "Hybrid work",
+            "Fully remote work",
+            "A fixed night shift"
+          ]
+        },
+        {
+          "type": "Summary completion",
+          "q": "Teams should agree which messages need an ______ response.",
+          "a": [
+            "immediate"
+          ],
+          "why": "The passage recommends distinguishing urgent messages from those that can wait.",
+          "ev": "“which communication requires an immediate response…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What does the writer imply about the best remote-work policy?",
+          "a": 0,
+          "why": "The final sentence says effectiveness depends on tasks, employees and management.",
+          "ev": "“rather than on a universal rule.”",
+          "opts": [
+            "It should reflect tasks and employee needs.",
+            "It should be identical in every industry.",
+            "It should eliminate all in-person contact.",
+            "It should be decided by office landlords."
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that remote work has caused city-centre rents to fall by 20%.",
+          "a": 2,
+          "why": "No rent statistic appears in the passage.",
+          "ev": "No percentage or rent figure is provided.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Flow-chart completion",
+          "q": "One way to reduce isolation is to hold regular one-to-one ______.",
+          "a": [
+            "conversations"
+          ],
+          "why": "The passage recommends regular one-to-one conversations.",
+          "ev": "“regular one-to-one conversations can prevent colleagues from becoming isolated.”"
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for Paragraph D.",
+          "a": 0,
+          "why": "Paragraph D considers commuting, local businesses and hybrid arrangements.",
+          "ev": "“The effect on cities remains uncertain.”",
+          "opts": [
+            "Effects on cities and the move towards hybrid models",
+            "The decline of all public transport",
+            "How to choose office furniture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "academic-seed-banks-01",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "IELTS Reading Arena",
+      "icon": "📖",
+      "title": "Seed Banks: Insurance for the Future",
+      "intro": "Preserving plant diversity in a changing climate",
+      "paras": [
+        "A seed bank stores seeds under controlled conditions so that plant varieties remain available for future research, restoration or cultivation. Some collections focus on wild plants; others preserve crops that farmers have developed over many generations. By keeping samples outside their natural habitats, seed banks provide a form of insurance against local disasters and the loss of traditional varieties.",
+        "Seeds are not simply placed in a box and forgotten. Staff usually dry them to an appropriate moisture level and store them at low temperatures. Each species behaves differently, so storage methods must be matched to its biology. Some seeds tolerate drying and freezing well, whereas others lose viability under those conditions and require alternative conservation methods.",
+        "A collection is valuable only if its contents are documented and periodically checked. Germination tests estimate how many seeds remain capable of growing. If viability declines, staff may grow replacement plants and collect fresh seed. Records about the place, date and conditions of collection are also important: without this information, researchers may be unable to interpret a sample or return a species to a suitable habitat.",
+        "Seed banks cannot replace living ecosystems. A seed may preserve genetic material, but it does not maintain the pollinators, soil relationships or cultural practices that support a plant in the wild. Conservation organisations therefore combine storage with habitat protection, local knowledge and, where appropriate, the continued cultivation of traditional crops. The strongest strategy uses several methods rather than relying on a single facility."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is one purpose of a seed bank?",
+          "a": 0,
+          "why": "The opening sentence describes storage for future research, restoration or cultivation.",
+          "ev": "“remain available for future research, restoration or cultivation.”",
+          "opts": [
+            "To keep plant varieties available for future use",
+            "To replace every natural habitat",
+            "To produce fertiliser for farms",
+            "To prevent all plant diseases"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "All seeds can be safely stored using exactly the same method.",
+          "a": 1,
+          "why": "Storage methods vary because species respond differently to drying and freezing.",
+          "ev": "“storage methods must be matched to its biology.”",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for Paragraph B.",
+          "a": 0,
+          "why": "Paragraph B describes drying, cooling and species-specific storage.",
+          "ev": "“Staff usually dry them… and store them at low temperatures.”",
+          "opts": [
+            "Preparing seeds for long-term storage",
+            "The history of farming machinery",
+            "Why seeds never need checking"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that seed banks alone are sufficient to conserve plant life.",
+          "a": 1,
+          "why": "The final paragraph says seed banks cannot replace ecosystems and should be combined with other methods.",
+          "ev": "“The strongest strategy uses several methods…”",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Germination tests estimate how many seeds remain capable of ______.",
+          "a": [
+            "growing"
+          ],
+          "why": "The passage explains the purpose of germination tests.",
+          "ev": "“remain capable of growing.”"
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph explains why collection records matter?",
+          "a": 2,
+          "why": "Paragraph C describes place, date and conditions records.",
+          "ev": "“Records about the place, date and conditions of collection…”",
+          "opts": [
+            "Paragraph A",
+            "Paragraph B",
+            "Paragraph C",
+            "Paragraph D"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Every seed bank in the world is managed by a university.",
+          "a": 2,
+          "why": "The passage does not specify who manages every seed bank.",
+          "ev": "No universal management organisation is identified.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What test estimates whether seeds can still grow?",
+          "a": [
+            "germination test",
+            "germination tests"
+          ],
+          "why": "The passage names germination tests.",
+          "ev": "“Germination tests estimate how many seeds remain capable of growing.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which conservation approach maintains plants in their natural surroundings?",
+          "a": 0,
+          "why": "Habitat protection acts on the living environment rather than storing seeds.",
+          "ev": "“combine storage with habitat protection…”",
+          "opts": [
+            "Habitat protection",
+            "Low-temperature storage",
+            "A germination test"
+          ]
+        },
+        {
+          "type": "Summary completion",
+          "q": "Some seeds require alternative methods because they lose ______ under drying or freezing.",
+          "a": [
+            "viability"
+          ],
+          "why": "The passage says some seeds lose viability in those conditions.",
+          "ev": "“others lose viability under those conditions…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why might a seed sample be difficult to use without records?",
+          "a": 0,
+          "why": "Collection data helps researchers interpret samples and choose suitable habitats.",
+          "ev": "“researchers may be unable to interpret a sample or return a species to a suitable habitat.”",
+          "opts": [
+            "Researchers may not know how to interpret it or where to return the species.",
+            "The seed automatically changes species.",
+            "It will always germinate immediately.",
+            "It cannot be weighed."
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Seed banks preserve all relationships between plants and pollinators.",
+          "a": 1,
+          "why": "Stored seeds do not maintain pollinators or soil relationships.",
+          "ev": "“it does not maintain the pollinators, soil relationships…”",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Staff may collect fresh seed if the original sample’s ______ declines.",
+          "a": [
+            "viability"
+          ],
+          "why": "Fresh seed may be collected when viability declines.",
+          "ev": "“If viability declines, staff may grow replacement plants and collect fresh seed.”"
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Academic Full-Length Reading Practice Test 1",
+      "pathway": "Academic",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "academic-urban-forests-01",
+        "academic-remote-work-01",
+        "academic-seed-banks-01"
+      ]
+    }
+  ]
+}

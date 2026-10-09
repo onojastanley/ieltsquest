@@ -1,0 +1,235 @@
+{
+  "passages": [
+    {
+      "id": "village-vocab-workplaces",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🏢",
+      "title": "Designing Healthier Workplaces",
+      "intro": "Small changes that can improve concentration and comfort",
+      "paras": [
+        "Workplace design can influence how comfortably people carry out their duties. Natural light, suitable chairs and access to quiet areas may help staff remain focused. Employers are increasingly considering these features alongside traditional concerns such as cost and available floor space.",
+        "Breaks also play a role in maintaining attention. A brief walk or a change of task can help workers return with renewed concentration. By contrast, frequent interruptions and unclear priorities can make even simple tasks take longer than expected.",
+        "There is no single layout that suits every team. Some tasks require collaboration, while others demand privacy. Organisations can learn what works by asking employees for feedback and testing changes before making expensive, permanent alterations."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "Which workplace feature may help staff remain focused?",
+          "opts": [
+            "Natural light",
+            "More interruptions",
+            "Unclear priorities",
+            "Fewer chairs"
+          ],
+          "a": 0,
+          "why": "Natural light is listed among features that may help focus.",
+          "ev": "“Natural light, suitable chairs and access to quiet areas...”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What can a brief walk help workers do?",
+          "opts": [
+            "Avoid all future tasks",
+            "Return with renewed concentration",
+            "Finish without planning",
+            "Eliminate collaboration"
+          ],
+          "a": 1,
+          "why": "The passage says a brief walk can help workers return with renewed concentration.",
+          "ev": "“return with renewed concentration.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "True / False / Not Given: One workplace layout is best for every team.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The passage directly states that no single layout suits every team.",
+          "ev": "“There is no single layout that suits every team.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What should organisations do before expensive permanent changes?",
+          "opts": [
+            "Test changes",
+            "Stop collecting feedback",
+            "Remove quiet areas",
+            "Increase interruptions"
+          ],
+          "a": 0,
+          "why": "The passage recommends testing changes first.",
+          "ev": "“testing changes before making expensive, permanent alterations.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "What should organisations ask employees for?",
+          "a": [
+            "feedback",
+            "employee feedback"
+          ],
+          "why": "Employee feedback is recommended when assessing workplace design.",
+          "ev": "“asking employees for feedback...”"
+        }
+      ]
+    },
+    {
+      "id": "village-vocab-food",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🥕",
+      "title": "Reducing Food Waste at Home",
+      "intro": "Practical ways to use food more carefully",
+      "paras": [
+        "Food waste occurs when edible items are discarded rather than eaten. Households can reduce waste by planning meals, checking cupboards before shopping and storing ingredients correctly. These habits may also lower grocery costs because fewer purchases are forgotten or spoiled.",
+        "Understanding date labels is important. A “best before” date generally relates to quality, while a safety-related “use by” date should be treated more cautiously. Consumers should follow storage instructions and use their judgement, rather than assuming that every item becomes unsafe immediately after its quality date.",
+        "Leftovers can be used in soups, salads and packed lunches, provided they are handled safely. Freezing suitable foods can extend their storage life. Small actions, repeated consistently across many households, can reduce the amount of food sent to landfill."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "Which habit may lower grocery costs?",
+          "opts": [
+            "Planning meals",
+            "Buying duplicates without checking",
+            "Ignoring storage instructions",
+            "Discarding leftovers immediately"
+          ],
+          "a": 0,
+          "why": "Meal planning and checking cupboards can prevent wasted purchases.",
+          "ev": "“These habits may also lower grocery costs...”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What does a “best before” date generally relate to?",
+          "opts": [
+            "Quality",
+            "The exact time food becomes poisonous",
+            "The price of food",
+            "The size of a portion"
+          ],
+          "a": 0,
+          "why": "The passage says best-before dates generally relate to quality.",
+          "ev": "“relates to quality...”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "True / False / Not Given: Every food becomes unsafe immediately after its best-before date.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The passage says not to assume this.",
+          "ev": "“rather than assuming that every item becomes unsafe immediately...”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Which method can extend the storage life of suitable foods?",
+          "opts": [
+            "Freezing",
+            "Leaving food uncovered",
+            "Ignoring labels",
+            "Repeatedly warming all food"
+          ],
+          "a": 0,
+          "why": "Freezing suitable foods can extend storage life.",
+          "ev": "“Freezing suitable foods can extend their storage life.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Where can food waste end up if it is sent away with rubbish?",
+          "a": [
+            "landfill",
+            "a landfill"
+          ],
+          "why": "The final sentence refers to food sent to landfill.",
+          "ev": "“food sent to landfill.”"
+        }
+      ]
+    },
+    {
+      "id": "village-vocab-public-spaces",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🌳",
+      "title": "The Value of Public Spaces",
+      "intro": "Why parks and shared places matter in growing towns",
+      "paras": [
+        "Public spaces such as parks, squares and walking paths give residents places to exercise, relax and meet neighbours. They can also make a town more attractive to visitors. When these spaces are accessible, people of different ages and backgrounds have more opportunities to take part in community life.",
+        "Maintaining public spaces requires ongoing attention. Paths must be repaired, rubbish collected and facilities checked for safety. Local authorities sometimes work with volunteer groups, although volunteers cannot replace the need for reliable funding and professional maintenance.",
+        "Design matters as much as appearance. Shade, seating, lighting and step-free routes can make a place usable for more people. Consulting residents before redesigning a park can help identify needs that might otherwise be overlooked."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is one social benefit of public spaces?",
+          "opts": [
+            "They provide places to meet neighbours.",
+            "They eliminate the need for homes.",
+            "They prevent all traffic.",
+            "They require no maintenance."
+          ],
+          "a": 0,
+          "why": "Public spaces let residents meet neighbours.",
+          "ev": "“relax and meet neighbours.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why can volunteers not replace professional maintenance entirely?",
+          "opts": [
+            "Funding and professional maintenance are still needed.",
+            "Volunteers dislike parks.",
+            "Parks do not need repairs.",
+            "Authorities never help."
+          ],
+          "a": 0,
+          "why": "The passage explicitly says volunteers cannot replace reliable funding and professional maintenance.",
+          "ev": "“cannot replace the need for reliable funding and professional maintenance.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "True / False / Not Given: Lighting can help make public spaces usable for more people.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 0,
+          "why": "Lighting is one of the design features listed.",
+          "ev": "“Shade, seating, lighting and step-free routes...”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What can consultation help planners identify?",
+          "opts": [
+            "Needs that might otherwise be overlooked",
+            "A way to avoid all costs",
+            "The exact number of visitors forever",
+            "A reason to remove seating"
+          ],
+          "a": 0,
+          "why": "Resident consultation helps identify overlooked needs.",
+          "ev": "“identify needs that might otherwise be overlooked.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one facility or feature that may need maintenance.",
+          "a": [
+            "paths",
+            "rubbish bins",
+            "facilities",
+            "paths must be repaired"
+          ],
+          "why": "The passage mentions repairing paths, collecting rubbish and checking facilities.",
+          "ev": "“Paths must be repaired, rubbish collected and facilities checked...”"
+        }
+      ]
+    }
+  ],
+  "tests": []
+}

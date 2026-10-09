@@ -1,0 +1,240 @@
+{
+  "passages": [
+    {
+      "id": "village-vocab-transport",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🚲",
+      "title": "Why Cities Are Rethinking Transport",
+      "intro": "How cities are making everyday journeys more efficient",
+      "paras": [
+        "As urban populations grow, transport planners are looking for ways to move people without increasing congestion. Some cities have expanded cycle lanes and improved bus services. These changes can reduce pressure on roads, particularly when commuters feel that public transport is reliable and affordable.",
+        "A further approach is to design neighbourhoods where homes, shops, schools and workplaces are within a reasonable distance of one another. This can make walking a practical choice for short journeys. Digital travel apps also help passengers compare routes and receive updates when services are delayed.",
+        "However, new infrastructure alone cannot solve every problem. Residents need safe crossings, accessible stations and services that operate at useful times. Planners therefore collect feedback and travel data before deciding which improvements should receive funding."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is one expected benefit of reliable public transport?",
+          "opts": [
+            "More people may choose it instead of driving.",
+            "Every road will become wider.",
+            "Walking will no longer be necessary.",
+            "Travel will always be free."
+          ],
+          "a": 0,
+          "why": "Reliable and affordable services can persuade commuters to use public transport.",
+          "ev": "“commuters feel that public transport is reliable and affordable.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "The passage says that nearby services can make which activity practical?",
+          "opts": [
+            "Long-distance driving",
+            "Walking for short journeys",
+            "Air travel",
+            "Working only at home"
+          ],
+          "a": 1,
+          "why": "Homes and daily services close together make walking more practical.",
+          "ev": "“This can make walking a practical choice for short journeys.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "True / False / Not Given: Digital apps can tell passengers about delays.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 0,
+          "why": "The passage explicitly says apps provide updates when services are delayed.",
+          "ev": "“receive updates when services are delayed.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Yes / No / Not Given: The writer believes infrastructure alone can solve all transport problems.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The writer says new infrastructure alone cannot solve every problem.",
+          "ev": "“new infrastructure alone cannot solve every problem.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "What do planners collect before deciding which improvements to fund?",
+          "a": [
+            "feedback and travel data",
+            "travel data and feedback",
+            "feedback",
+            "travel data"
+          ],
+          "why": "Both feedback and travel data are mentioned as inputs to planning decisions.",
+          "ev": "“collect feedback and travel data before deciding...”"
+        }
+      ]
+    },
+    {
+      "id": "village-vocab-learning",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🧠",
+      "title": "The Science of Learning a New Skill",
+      "intro": "Why regular practice often works better than cramming",
+      "paras": [
+        "Learning a skill requires more than reading instructions once. Research on memory suggests that practice spread across several days can help people retain information. This approach, often called spaced practice, gives the brain repeated opportunities to retrieve what it has learned.",
+        "Feedback is another important part of learning. When learners discover why an answer is wrong, they can adjust their strategy rather than simply repeat the same mistake. Short sessions with a clear goal may also feel more manageable than a single, exhausting study period.",
+        "Progress is rarely perfectly steady. A learner may improve quickly at first and then experience a plateau. Teachers recommend reviewing earlier material, varying practice tasks and allowing time for rest. These habits can support long-term improvement even when immediate results seem limited."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is spaced practice?",
+          "opts": [
+            "Studying once for many hours",
+            "Practising over several days",
+            "Avoiding difficult tasks",
+            "Memorising without review"
+          ],
+          "a": 1,
+          "why": "The passage describes practice spread across several days.",
+          "ev": "“practice spread across several days...”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why is feedback useful?",
+          "opts": [
+            "It removes the need to practise.",
+            "It helps learners understand and correct mistakes.",
+            "It guarantees instant progress.",
+            "It makes every task easier."
+          ],
+          "a": 1,
+          "why": "Feedback helps learners adjust their strategy after understanding an error.",
+          "ev": "“discover why an answer is wrong, they can adjust their strategy...”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "True / False / Not Given: Learners always improve at a constant speed.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The passage says progress is rarely perfectly steady.",
+          "ev": "“Progress is rarely perfectly steady.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Which phrase means a period when progress slows?",
+          "opts": [
+            "clear goal",
+            "spaced practice",
+            "plateau",
+            "feedback"
+          ],
+          "a": 2,
+          "why": "A plateau is specifically mentioned as a stage when progress may slow.",
+          "ev": "“experience a plateau.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one habit that can support long-term improvement.",
+          "a": [
+            "reviewing earlier material",
+            "varying practice tasks",
+            "allowing time for rest",
+            "review earlier material",
+            "varying practice",
+            "rest"
+          ],
+          "why": "The final paragraph lists these habits.",
+          "ev": "“reviewing earlier material, varying practice tasks and allowing time for rest.”"
+        }
+      ]
+    },
+    {
+      "id": "village-vocab-community",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🤝",
+      "title": "How Community Projects Succeed",
+      "intro": "The role of trust, planning and shared responsibility",
+      "paras": [
+        "Community projects often begin with a simple goal, such as improving a park or organising a local food exchange. Their success depends not only on funding but also on whether residents believe their contributions will make a difference. When people are invited to help shape decisions, they may feel a stronger sense of ownership.",
+        "Clear communication can prevent misunderstandings. Organisers need to explain what the project will do, how money will be used and which tasks still require volunteers. Regular updates also allow residents to raise concerns before small problems become serious.",
+        "Even a well-planned project can face setbacks. Weather, changing schedules and limited resources may delay activities. Groups that review their plans and share responsibilities are often better prepared to adapt. Success should therefore be measured not only by the final result but also by the skills and relationships developed along the way."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What can increase residents’ sense of ownership?",
+          "opts": [
+            "Excluding them from decisions",
+            "Inviting them to shape decisions",
+            "Keeping plans secret",
+            "Removing volunteer roles"
+          ],
+          "a": 1,
+          "why": "Participation in decision-making can create a stronger sense of ownership.",
+          "ev": "“invited to help shape decisions...”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What should organisers explain clearly?",
+          "opts": [
+            "Only the project name",
+            "What the project will do and how money will be used",
+            "Private details about residents",
+            "Why volunteers are unnecessary"
+          ],
+          "a": 1,
+          "why": "The passage lists the project purpose, use of money and volunteer tasks.",
+          "ev": "“what the project will do, how money will be used...”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "True / False / Not Given: Community projects never experience delays.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The passage identifies several reasons projects may be delayed.",
+          "ev": "“may delay activities.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Which is mentioned as a possible setback?",
+          "opts": [
+            "Too much ownership",
+            "Weather",
+            "Excessive free time",
+            "Guaranteed funding"
+          ],
+          "a": 1,
+          "why": "Weather is one of the stated causes of setbacks.",
+          "ev": "“Weather, changing schedules and limited resources...”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Besides the final result, what else can indicate a project’s success?",
+          "a": [
+            "skills and relationships",
+            "relationships and skills",
+            "new skills",
+            "relationships"
+          ],
+          "why": "The final sentence says success can include skills and relationships developed.",
+          "ev": "“the skills and relationships developed along the way.”"
+        }
+      ]
+    }
+  ],
+  "tests": []
+}
