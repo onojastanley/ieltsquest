@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "description": "Original General Training IELTS Reading practice test 5. Not an official IELTS test.",
+  "passages": [
+    {
+      "id": "gt-v05-p1",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Community Theatre Ticket Policy",
+      "intro": "Ticketing and visitor arrangements",
+      "paras": [
+        "Ticket exchanges are permitted until 48 hours before the performance. Latecomers may be seated only at a suitable break in the performance.",
+        "Evening performances are not suitable for children under five. Large bags must be stored in the cloakroom.",
+        "The theatre café opens one hour before the show. Wheelchair spaces are reserved by calling the box office.",
+        "Printed programmes are available for purchase in the lobby. The theatre does not provide its own parking spaces."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about tickets can be exchanged up to forty-eight hours before a show?",
+          "a": 0,
+          "why": "The notice gives this information directly: Ticket exchanges are permitted until 48 hours before the performance.",
+          "ev": "Ticket exchanges are permitted until 48 hours before the performance.",
+          "opts": [
+            "forty-eight hours",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Latecomers may be seated only at a suitable break in the performance.",
+          "a": 0,
+          "why": "The notice gives this information directly: Latecomers may be seated only at a suitable break in the performance.",
+          "ev": "Latecomers may be seated only at a suitable break in the performance.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that children under five are not admitted to evening shows ______.",
+          "a": [
+            "under five"
+          ],
+          "why": "The notice gives this information directly: Evening performances are not suitable for children under five.",
+          "ev": "Evening performances are not suitable for children under five."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about large bags must be left in the cloakroom?",
+          "a": 0,
+          "why": "The notice gives this information directly: Large bags must be stored in the cloakroom.",
+          "ev": "Large bags must be stored in the cloakroom.",
+          "opts": [
+            "the cloakroom",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the café opens one hour before performances?",
+          "a": 0,
+          "why": "The notice gives this information directly: The theatre café opens one hour before the show.",
+          "ev": "The theatre café opens one hour before the show.",
+          "opts": [
+            "one hour",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: Wheelchair spaces are reserved by calling the box office.",
+          "ev": "Wheelchair spaces are reserved by calling the box office.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about printed programmes are sold in the lobby?",
+          "a": [
+            "the lobby"
+          ],
+          "why": "The notice gives this information directly: Printed programmes are available for purchase in the lobby.",
+          "ev": "Printed programmes are available for purchase in the lobby."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The theatre does not provide its own parking spaces.",
+          "a": 0,
+          "why": "The notice gives this information directly: The theatre does not provide its own parking spaces.",
+          "ev": "The theatre does not provide its own parking spaces.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — tickets can be exchanged up to forty-eight hours before a show; answer: ______.",
+          "a": [
+            "forty-eight hours"
+          ],
+          "why": "The notice gives this information directly: Ticket exchanges are permitted until 48 hours before the performance.",
+          "ev": "Ticket exchanges are permitted until 48 hours before the performance."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about latecomers may wait for a suitable break?",
+          "a": 0,
+          "why": "The notice gives this information directly: Latecomers may be seated only at a suitable break in the performance.",
+          "ev": "Latecomers may be seated only at a suitable break in the performance.",
+          "opts": [
+            "a suitable break",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that children under five are not admitted to evening shows ______.",
+          "a": [
+            "under five"
+          ],
+          "why": "The notice gives this information directly: Evening performances are not suitable for children under five.",
+          "ev": "Evening performances are not suitable for children under five."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about large bags must be left in the cloakroom?",
+          "a": 0,
+          "why": "The notice gives this information directly: Large bags must be stored in the cloakroom.",
+          "ev": "Large bags must be stored in the cloakroom.",
+          "opts": [
+            "the cloakroom",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about the café opens one hour before performances?",
+          "a": [
+            "one hour"
+          ],
+          "why": "The notice gives this information directly: The theatre café opens one hour before the show.",
+          "ev": "The theatre café opens one hour before the show."
+        }
+      ]
+    },
+    {
+      "id": "gt-v05-p2",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Hotel Guest Information",
+      "intro": "Information to help guests and passengers plan",
+      "paras": [
+        "Guests can check in from 3 p.m. Breakfast is served daily until 10 a.m.",
+        "A refundable deposit is taken when guests receive their room key. Late checkout can be arranged only if rooms are available.",
+        "Guests must reserve the airport shuttle at least one day in advance. Smoking is prohibited throughout all guest rooms.",
+        "Laundry for same-day service must be left before 9 a.m. Lost property is retained for three months."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about check-in begins at 3 p.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: Guests can check in from 3 p.m.",
+          "ev": "Guests can check in from 3 p.m.",
+          "opts": [
+            "3 p.m.",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Breakfast is served daily until 10 a.m.",
+          "a": 0,
+          "why": "The notice gives this information directly: Breakfast is served daily until 10 a.m.",
+          "ev": "Breakfast is served daily until 10 a.m.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that a deposit is required for room keys ______.",
+          "a": [
+            "a deposit"
+          ],
+          "why": "The notice gives this information directly: A refundable deposit is taken when guests receive their room key.",
+          "ev": "A refundable deposit is taken when guests receive their room key."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about late checkout depends on availability?",
+          "a": 0,
+          "why": "The notice gives this information directly: Late checkout can be arranged only if rooms are available.",
+          "ev": "Late checkout can be arranged only if rooms are available.",
+          "opts": [
+            "availability",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the airport shuttle must be booked a day ahead?",
+          "a": 0,
+          "why": "The notice gives this information directly: Guests must reserve the airport shuttle at least one day in advance.",
+          "ev": "Guests must reserve the airport shuttle at least one day in advance.",
+          "opts": [
+            "a day ahead",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: Smoking is prohibited throughout all guest rooms.",
+          "ev": "Smoking is prohibited throughout all guest rooms.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about laundry collection ends at 9 a.m.?",
+          "a": [
+            "9 a.m."
+          ],
+          "why": "The notice gives this information directly: Laundry for same-day service must be left before 9 a.m.",
+          "ev": "Laundry for same-day service must be left before 9 a.m."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Lost property is retained for three months.",
+          "a": 0,
+          "why": "The notice gives this information directly: Lost property is retained for three months.",
+          "ev": "Lost property is retained for three months.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — check-in begins at 3 p.m.; answer: ______.",
+          "a": [
+            "3 p.m."
+          ],
+          "why": "The notice gives this information directly: Guests can check in from 3 p.m.",
+          "ev": "Guests can check in from 3 p.m."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about breakfast is served until 10 a.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: Breakfast is served daily until 10 a.m.",
+          "ev": "Breakfast is served daily until 10 a.m.",
+          "opts": [
+            "10 a.m.",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that a deposit is required for room keys ______.",
+          "a": [
+            "a deposit"
+          ],
+          "why": "The notice gives this information directly: A refundable deposit is taken when guests receive their room key.",
+          "ev": "A refundable deposit is taken when guests receive their room key."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about late checkout depends on availability?",
+          "a": 0,
+          "why": "The notice gives this information directly: Late checkout can be arranged only if rooms are available.",
+          "ev": "Late checkout can be arranged only if rooms are available.",
+          "opts": [
+            "availability",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about the airport shuttle must be booked a day ahead?",
+          "a": [
+            "a day ahead"
+          ],
+          "why": "The notice gives this information directly: Guests must reserve the airport shuttle at least one day in advance.",
+          "ev": "Guests must reserve the airport shuttle at least one day in advance."
+        }
+      ]
+    },
+    {
+      "id": "gt-v05-p3",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "City Park Information Board",
+      "intro": "Local services, rules and practical arrangements",
+      "paras": [
+        "The botanical garden closes at sunset each day. Portable barbecues may be used only in designated areas.",
+        "Cyclists must remain on paved paths. The visitor centre opens at 9 a.m. from Tuesday to Sunday.",
+        "Organised groups must book sports fields in advance. Fishing in the lake is permitted only with a valid permit.",
+        "Dogs are not allowed inside the children's playground. The miniature park train does not operate during heavy rain."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the botanical garden closes at sunset?",
+          "a": 0,
+          "why": "The notice gives this information directly: The botanical garden closes at sunset each day.",
+          "ev": "The botanical garden closes at sunset each day.",
+          "opts": [
+            "sunset",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Portable barbecues may be used only in designated areas.",
+          "a": 0,
+          "why": "The notice gives this information directly: Portable barbecues may be used only in designated areas.",
+          "ev": "Portable barbecues may be used only in designated areas.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that cycling is restricted to paved paths ______.",
+          "a": [
+            "paved paths"
+          ],
+          "why": "The notice gives this information directly: Cyclists must remain on paved paths.",
+          "ev": "Cyclists must remain on paved paths."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about the visitor centre opens at 9 a.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: The visitor centre opens at 9 a.m. from Tuesday to Sunday.",
+          "ev": "The visitor centre opens at 9 a.m. from Tuesday to Sunday.",
+          "opts": [
+            "9 a.m.",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about sports fields require advance booking?",
+          "a": 0,
+          "why": "The notice gives this information directly: Organised groups must book sports fields in advance.",
+          "ev": "Organised groups must book sports fields in advance.",
+          "opts": [
+            "advance booking",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: Fishing in the lake is permitted only with a valid permit.",
+          "ev": "Fishing in the lake is permitted only with a valid permit.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about dogs are excluded from the children's playground?",
+          "a": [
+            "the children's playground"
+          ],
+          "why": "The notice gives this information directly: Dogs are not allowed inside the children's playground.",
+          "ev": "Dogs are not allowed inside the children's playground."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The miniature park train does not operate during heavy rain.",
+          "a": 0,
+          "why": "The notice gives this information directly: The miniature park train does not operate during heavy rain.",
+          "ev": "The miniature park train does not operate during heavy rain.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — the botanical garden closes at sunset; answer: ______.",
+          "a": [
+            "sunset"
+          ],
+          "why": "The notice gives this information directly: The botanical garden closes at sunset each day.",
+          "ev": "The botanical garden closes at sunset each day."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about barbecues are allowed only in marked areas?",
+          "a": 0,
+          "why": "The notice gives this information directly: Portable barbecues may be used only in designated areas.",
+          "ev": "Portable barbecues may be used only in designated areas.",
+          "opts": [
+            "marked areas",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that cycling is restricted to paved paths ______.",
+          "a": [
+            "paved paths"
+          ],
+          "why": "The notice gives this information directly: Cyclists must remain on paved paths.",
+          "ev": "Cyclists must remain on paved paths."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about the visitor centre opens at 9 a.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: The visitor centre opens at 9 a.m. from Tuesday to Sunday.",
+          "ev": "The visitor centre opens at 9 a.m. from Tuesday to Sunday.",
+          "opts": [
+            "9 a.m.",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about sports fields require advance booking?",
+          "a": [
+            "advance booking"
+          ],
+          "why": "The notice gives this information directly: Organised groups must book sports fields in advance.",
+          "ev": "Organised groups must book sports fields in advance."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Fishing in the lake is permitted only with a valid permit.",
+          "a": 0,
+          "why": "The notice gives this information directly: Fishing in the lake is permitted only with a valid permit.",
+          "ev": "Fishing in the lake is permitted only with a valid permit.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "General Training Full-Length Reading Practice Test 5",
+      "pathway": "General Training",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "gt-v05-p1",
+        "gt-v05-p2",
+        "gt-v05-p3"
+      ]
+    }
+  ]
+}

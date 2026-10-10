@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "description": "Original General Training IELTS Reading practice test 2. Not an official IELTS test.",
+  "passages": [
+    {
+      "id": "gt-v02-p1",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Community Library Membership",
+      "intro": "Information for new members and regular borrowers",
+      "paras": [
+        "Residents can join the library without paying a membership fee. Applicants must show proof of address when they register.",
+        "Each member may borrow up to eight items at one time. The standard loan period for books is three weeks.",
+        "Items can be renewed unless another reader has reserved them. The library does not charge late fees on children's books.",
+        "Public computers may be reserved in one-hour sessions. The quiet study room closes at 7 p.m. each weekday."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about membership is free for local residents?",
+          "a": 0,
+          "why": "The notice gives this information directly: Residents can join the library without paying a membership fee.",
+          "ev": "Residents can join the library without paying a membership fee.",
+          "opts": [
+            "free membership",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Applicants must show proof of address when they register.",
+          "a": 0,
+          "why": "The notice gives this information directly: Applicants must show proof of address when they register.",
+          "ev": "Applicants must show proof of address when they register.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that borrowers may take out eight items ______.",
+          "a": [
+            "eight items"
+          ],
+          "why": "The notice gives this information directly: Each member may borrow up to eight items at one time.",
+          "ev": "Each member may borrow up to eight items at one time."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about books are loaned for three weeks?",
+          "a": 0,
+          "why": "The notice gives this information directly: The standard loan period for books is three weeks.",
+          "ev": "The standard loan period for books is three weeks.",
+          "opts": [
+            "three weeks",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about renewals are allowed if no one has reserved the item?",
+          "a": 0,
+          "why": "The notice gives this information directly: Items can be renewed unless another reader has reserved them.",
+          "ev": "Items can be renewed unless another reader has reserved them.",
+          "opts": [
+            "no reservation",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The library does not charge late fees on the following month.",
+          "a": 1,
+          "why": "The notice gives this information directly: The library does not charge late fees on children's books.",
+          "ev": "The library does not charge late fees on children's books.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about computers can be booked for one hour?",
+          "a": [
+            "one hour"
+          ],
+          "why": "The notice gives this information directly: Public computers may be reserved in one-hour sessions.",
+          "ev": "Public computers may be reserved in one-hour sessions."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The quiet study room closes at 7 p.m. each weekday.",
+          "a": 0,
+          "why": "The notice gives this information directly: The quiet study room closes at 7 p.m. each weekday.",
+          "ev": "The quiet study room closes at 7 p.m. each weekday.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — membership is free for local residents; answer: ______.",
+          "a": [
+            "free membership"
+          ],
+          "why": "The notice gives this information directly: Residents can join the library without paying a membership fee.",
+          "ev": "Residents can join the library without paying a membership fee."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about proof of address is required?",
+          "a": 0,
+          "why": "The notice gives this information directly: Applicants must show proof of address when they register.",
+          "ev": "Applicants must show proof of address when they register.",
+          "opts": [
+            "proof of address",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that borrowers may take out eight items ______.",
+          "a": [
+            "eight items"
+          ],
+          "why": "The notice gives this information directly: Each member may borrow up to eight items at one time.",
+          "ev": "Each member may borrow up to eight items at one time."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about books are loaned for three weeks?",
+          "a": 0,
+          "why": "The notice gives this information directly: The standard loan period for books is three weeks.",
+          "ev": "The standard loan period for books is three weeks.",
+          "opts": [
+            "three weeks",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about renewals are allowed if no one has reserved the item?",
+          "a": [
+            "no reservation"
+          ],
+          "why": "The notice gives this information directly: Items can be renewed unless another reader has reserved them.",
+          "ev": "Items can be renewed unless another reader has reserved them."
+        }
+      ]
+    },
+    {
+      "id": "gt-v02-p2",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Community Fitness Centre",
+      "intro": "Opening hours, facilities and membership conditions",
+      "paras": [
+        "Before using the gym, new members must complete a short safety induction. The swimming pool opens at 6:30 a.m. from Monday to Friday.",
+        "The family swim session is held on Sunday afternoons. Members may hire towels at reception for a small fee.",
+        "Class bookings can be cancelled without penalty up to six hours before the start. Lockers operate with a refundable coin deposit.",
+        "Children younger than twelve must remain under adult supervision. The centre closes on all public holidays."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about new members receive an induction before using the gym?",
+          "a": 0,
+          "why": "The notice gives this information directly: Before using the gym, new members must complete a short safety induction.",
+          "ev": "Before using the gym, new members must complete a short safety induction.",
+          "opts": [
+            "an induction",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The swimming pool opens at 6:30 a.m. from Monday to Friday.",
+          "a": 0,
+          "why": "The notice gives this information directly: The swimming pool opens at 6:30 a.m. from Monday to Friday.",
+          "ev": "The swimming pool opens at 6:30 a.m. from Monday to Friday.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that family swim takes place on Sunday afternoons ______.",
+          "a": [
+            "Sunday afternoons"
+          ],
+          "why": "The notice gives this information directly: The family swim session is held on Sunday afternoons.",
+          "ev": "The family swim session is held on Sunday afternoons."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about towels are available for a small hire fee?",
+          "a": 0,
+          "why": "The notice gives this information directly: Members may hire towels at reception for a small fee.",
+          "ev": "Members may hire towels at reception for a small fee.",
+          "opts": [
+            "a hire fee",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about cancel a class at least six hours in advance?",
+          "a": 0,
+          "why": "The notice gives this information directly: Class bookings can be cancelled without penalty up to six hours before the start.",
+          "ev": "Class bookings can be cancelled without penalty up to six hours before the start.",
+          "opts": [
+            "six hours",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Lockers operate with the following month.",
+          "a": 1,
+          "why": "The notice gives this information directly: Lockers operate with a refundable coin deposit.",
+          "ev": "Lockers operate with a refundable coin deposit.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about children under twelve must be supervised?",
+          "a": [
+            "supervised"
+          ],
+          "why": "The notice gives this information directly: Children younger than twelve must remain under adult supervision.",
+          "ev": "Children younger than twelve must remain under adult supervision."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The centre closes on all public holidays.",
+          "a": 0,
+          "why": "The notice gives this information directly: The centre closes on all public holidays.",
+          "ev": "The centre closes on all public holidays.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — new members receive an induction before using the gym; answer: ______.",
+          "a": [
+            "an induction"
+          ],
+          "why": "The notice gives this information directly: Before using the gym, new members must complete a short safety induction.",
+          "ev": "Before using the gym, new members must complete a short safety induction."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the swimming pool opens at 6:30 a.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: The swimming pool opens at 6:30 a.m. from Monday to Friday.",
+          "ev": "The swimming pool opens at 6:30 a.m. from Monday to Friday.",
+          "opts": [
+            "6:30 a.m.",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that family swim takes place on Sunday afternoons ______.",
+          "a": [
+            "Sunday afternoons"
+          ],
+          "why": "The notice gives this information directly: The family swim session is held on Sunday afternoons.",
+          "ev": "The family swim session is held on Sunday afternoons."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about towels are available for a small hire fee?",
+          "a": 0,
+          "why": "The notice gives this information directly: Members may hire towels at reception for a small fee.",
+          "ev": "Members may hire towels at reception for a small fee.",
+          "opts": [
+            "a hire fee",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about cancel a class at least six hours in advance?",
+          "a": [
+            "six hours"
+          ],
+          "why": "The notice gives this information directly: Class bookings can be cancelled without penalty up to six hours before the start.",
+          "ev": "Class bookings can be cancelled without penalty up to six hours before the start."
+        }
+      ]
+    },
+    {
+      "id": "gt-v02-p3",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Local Bus Service Notice",
+      "intro": "Practical information for local passengers",
+      "paras": [
+        "Passengers can buy tickets through the operator's mobile app. Drivers do not accept cash fares, including exact change.",
+        "The airport bus operates every thirty minutes during the day. Passengers aged 65 and over may apply for reduced fares.",
+        "Bicycles cannot be carried on buses during peak commuting hours. Items handed in as lost property are stored for fourteen days.",
+        "Service disruptions and route updates are posted on the operator's website. Large suitcases must be placed in the luggage area and must not block the aisle."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about tickets can be purchased through the mobile app?",
+          "a": 0,
+          "why": "The notice gives this information directly: Passengers can buy tickets through the operator's mobile app.",
+          "ev": "Passengers can buy tickets through the operator's mobile app.",
+          "opts": [
+            "the mobile app",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Drivers do not accept cash fares, including exact change.",
+          "a": 0,
+          "why": "The notice gives this information directly: Drivers do not accept cash fares, including exact change.",
+          "ev": "Drivers do not accept cash fares, including exact change.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that the airport route runs every thirty minutes ______.",
+          "a": [
+            "thirty minutes"
+          ],
+          "why": "The notice gives this information directly: The airport bus operates every thirty minutes during the day.",
+          "ev": "The airport bus operates every thirty minutes during the day."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about reduced fares are available to seniors?",
+          "a": 0,
+          "why": "The notice gives this information directly: Passengers aged 65 and over may apply for reduced fares.",
+          "ev": "Passengers aged 65 and over may apply for reduced fares.",
+          "opts": [
+            "seniors",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about bicycles are not allowed during peak hours?",
+          "a": 0,
+          "why": "The notice gives this information directly: Bicycles cannot be carried on buses during peak commuting hours.",
+          "ev": "Bicycles cannot be carried on buses during peak commuting hours.",
+          "opts": [
+            "peak hours",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Items handed in as lost property are stored for the following month.",
+          "a": 1,
+          "why": "The notice gives this information directly: Items handed in as lost property are stored for fourteen days.",
+          "ev": "Items handed in as lost property are stored for fourteen days.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about service updates are posted online?",
+          "a": [
+            "online"
+          ],
+          "why": "The notice gives this information directly: Service disruptions and route updates are posted on the operator's website.",
+          "ev": "Service disruptions and route updates are posted on the operator's website."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Large suitcases must be placed in the luggage area and must not block the aisle.",
+          "a": 0,
+          "why": "The notice gives this information directly: Large suitcases must be placed in the luggage area and must not block the aisle.",
+          "ev": "Large suitcases must be placed in the luggage area and must not block the aisle.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — tickets can be purchased through the mobile app; answer: ______.",
+          "a": [
+            "the mobile app"
+          ],
+          "why": "The notice gives this information directly: Passengers can buy tickets through the operator's mobile app.",
+          "ev": "Passengers can buy tickets through the operator's mobile app."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about exact change is not accepted on board?",
+          "a": 0,
+          "why": "The notice gives this information directly: Drivers do not accept cash fares, including exact change.",
+          "ev": "Drivers do not accept cash fares, including exact change.",
+          "opts": [
+            "exact change",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that the airport route runs every thirty minutes ______.",
+          "a": [
+            "thirty minutes"
+          ],
+          "why": "The notice gives this information directly: The airport bus operates every thirty minutes during the day.",
+          "ev": "The airport bus operates every thirty minutes during the day."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about reduced fares are available to seniors?",
+          "a": 0,
+          "why": "The notice gives this information directly: Passengers aged 65 and over may apply for reduced fares.",
+          "ev": "Passengers aged 65 and over may apply for reduced fares.",
+          "opts": [
+            "seniors",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about bicycles are not allowed during peak hours?",
+          "a": [
+            "peak hours"
+          ],
+          "why": "The notice gives this information directly: Bicycles cannot be carried on buses during peak commuting hours.",
+          "ev": "Bicycles cannot be carried on buses during peak commuting hours."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Items handed in as lost property are stored for fourteen days.",
+          "a": 0,
+          "why": "The notice gives this information directly: Items handed in as lost property are stored for fourteen days.",
+          "ev": "Items handed in as lost property are stored for fourteen days.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "General Training Full-Length Reading Practice Test 2",
+      "pathway": "General Training",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "gt-v02-p1",
+        "gt-v02-p2",
+        "gt-v02-p3"
+      ]
+    }
+  ]
+}

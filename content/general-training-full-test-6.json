@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "description": "Original General Training IELTS Reading practice test 6. Not an official IELTS test.",
+  "passages": [
+    {
+      "id": "gt-v06-p1",
+      "pathway": "General Training",
+      "level": 3,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Job Application Workshop",
+      "intro": "Guidance for people seeking work or business training",
+      "paras": [
+        "Participants are encouraged to bring an up-to-date résumé. Each workshop session lasts 90 minutes.",
+        "Advance registration is required because seating is limited. Practice interviews take place in small groups.",
+        "Attendance does not guarantee a job offer. Advisers can help participants navigate online job applications.",
+        "A job-search checklist is emailed after the session. The workshop is free for newcomers to the city."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about participants should bring a current résumé?",
+          "a": 0,
+          "why": "The notice gives this information directly: Participants are encouraged to bring an up-to-date résumé.",
+          "ev": "Participants are encouraged to bring an up-to-date résumé.",
+          "opts": [
+            "a current résumé",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Each workshop session lasts 90 minutes.",
+          "a": 0,
+          "why": "The notice gives this information directly: Each workshop session lasts 90 minutes.",
+          "ev": "Each workshop session lasts 90 minutes.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that registration is required because places are limited ______.",
+          "a": [
+            "registration"
+          ],
+          "why": "The notice gives this information directly: Advance registration is required because seating is limited.",
+          "ev": "Advance registration is required because seating is limited."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about mock interviews are held in small groups?",
+          "a": 0,
+          "why": "The notice gives this information directly: Practice interviews take place in small groups.",
+          "ev": "Practice interviews take place in small groups.",
+          "opts": [
+            "small groups",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the session does not guarantee employment?",
+          "a": 0,
+          "why": "The notice gives this information directly: Attendance does not guarantee a job offer.",
+          "ev": "Attendance does not guarantee a job offer.",
+          "opts": [
+            "guarantee employment",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: Advisers can help participants navigate online job applications.",
+          "ev": "Advisers can help participants navigate online job applications.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about participants receive a checklist by email?",
+          "a": [
+            "by email"
+          ],
+          "why": "The notice gives this information directly: A job-search checklist is emailed after the session.",
+          "ev": "A job-search checklist is emailed after the session."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The workshop is free for newcomers to the city.",
+          "a": 0,
+          "why": "The notice gives this information directly: The workshop is free for newcomers to the city.",
+          "ev": "The workshop is free for newcomers to the city.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — participants should bring a current résumé; answer: ______.",
+          "a": [
+            "a current résumé"
+          ],
+          "why": "The notice gives this information directly: Participants are encouraged to bring an up-to-date résumé.",
+          "ev": "Participants are encouraged to bring an up-to-date résumé."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the workshop lasts ninety minutes?",
+          "a": 0,
+          "why": "The notice gives this information directly: Each workshop session lasts 90 minutes.",
+          "ev": "Each workshop session lasts 90 minutes.",
+          "opts": [
+            "ninety minutes",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that registration is required because places are limited ______.",
+          "a": [
+            "registration"
+          ],
+          "why": "The notice gives this information directly: Advance registration is required because seating is limited.",
+          "ev": "Advance registration is required because seating is limited."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about mock interviews are held in small groups?",
+          "a": 0,
+          "why": "The notice gives this information directly: Practice interviews take place in small groups.",
+          "ev": "Practice interviews take place in small groups.",
+          "opts": [
+            "small groups",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about the session does not guarantee employment?",
+          "a": [
+            "guarantee employment"
+          ],
+          "why": "The notice gives this information directly: Attendance does not guarantee a job offer.",
+          "ev": "Attendance does not guarantee a job offer."
+        }
+      ]
+    },
+    {
+      "id": "gt-v06-p2",
+      "pathway": "General Training",
+      "level": 3,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Workplace Shift Handover",
+      "intro": "Procedures employees must follow",
+      "paras": [
+        "At the end of a shift, the outgoing worker records unfinished tasks. Stock shortages must be entered in the digital handover log.",
+        "Urgent hazards must be reported directly to the supervisor immediately. The incoming team checks the handover notes before beginning work.",
+        "Handover notes should contain facts, not personal opinions. Reports of equipment faults must include the machine's asset number.",
+        "Confidential details must be entered only in the secure reporting system. A supervisor reviews and signs off serious incident reports."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the outgoing worker records unfinished tasks?",
+          "a": 0,
+          "why": "The notice gives this information directly: At the end of a shift, the outgoing worker records unfinished tasks.",
+          "ev": "At the end of a shift, the outgoing worker records unfinished tasks.",
+          "opts": [
+            "unfinished tasks",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Stock shortages must be entered in the digital handover log.",
+          "a": 0,
+          "why": "The notice gives this information directly: Stock shortages must be entered in the digital handover log.",
+          "ev": "Stock shortages must be entered in the digital handover log.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that urgent hazards are reported verbally at once ______.",
+          "a": [
+            "verbally"
+          ],
+          "why": "The notice gives this information directly: Urgent hazards must be reported directly to the supervisor immediately.",
+          "ev": "Urgent hazards must be reported directly to the supervisor immediately."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about the next shift checks the handover before starting?",
+          "a": 0,
+          "why": "The notice gives this information directly: The incoming team checks the handover notes before beginning work.",
+          "ev": "The incoming team checks the handover notes before beginning work.",
+          "opts": [
+            "before starting",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about personal opinions should not be included?",
+          "a": 0,
+          "why": "The notice gives this information directly: Handover notes should contain facts, not personal opinions.",
+          "ev": "Handover notes should contain facts, not personal opinions.",
+          "opts": [
+            "personal opinions",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: Reports of equipment faults must include the machine's asset number.",
+          "ev": "Reports of equipment faults must include the machine's asset number.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about confidential information stays in the secure system?",
+          "a": [
+            "the secure system"
+          ],
+          "why": "The notice gives this information directly: Confidential details must be entered only in the secure reporting system.",
+          "ev": "Confidential details must be entered only in the secure reporting system."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "A supervisor reviews and signs off serious incident reports.",
+          "a": 0,
+          "why": "The notice gives this information directly: A supervisor reviews and signs off serious incident reports.",
+          "ev": "A supervisor reviews and signs off serious incident reports.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — the outgoing worker records unfinished tasks; answer: ______.",
+          "a": [
+            "unfinished tasks"
+          ],
+          "why": "The notice gives this information directly: At the end of a shift, the outgoing worker records unfinished tasks.",
+          "ev": "At the end of a shift, the outgoing worker records unfinished tasks."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about stock shortages are entered in the digital log?",
+          "a": 0,
+          "why": "The notice gives this information directly: Stock shortages must be entered in the digital handover log.",
+          "ev": "Stock shortages must be entered in the digital handover log.",
+          "opts": [
+            "the digital log",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that urgent hazards are reported verbally at once ______.",
+          "a": [
+            "verbally"
+          ],
+          "why": "The notice gives this information directly: Urgent hazards must be reported directly to the supervisor immediately.",
+          "ev": "Urgent hazards must be reported directly to the supervisor immediately."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about the next shift checks the handover before starting?",
+          "a": 0,
+          "why": "The notice gives this information directly: The incoming team checks the handover notes before beginning work.",
+          "ev": "The incoming team checks the handover notes before beginning work.",
+          "opts": [
+            "before starting",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about personal opinions should not be included?",
+          "a": [
+            "personal opinions"
+          ],
+          "why": "The notice gives this information directly: Handover notes should contain facts, not personal opinions.",
+          "ev": "Handover notes should contain facts, not personal opinions."
+        }
+      ]
+    },
+    {
+      "id": "gt-v06-p3",
+      "pathway": "General Training",
+      "level": 3,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Rental Viewing Checklist",
+      "intro": "Important rules for residents and visitors",
+      "paras": [
+        "Prospective tenants must arrange viewings with the rental agent. The checklist advises applicants to test taps and water pressure.",
+        "Applicants should confirm which utilities are included before signing a lease. Smoke alarms should be checked during the viewing.",
+        "Tenants are advised to photograph the inventory and existing damage. Any agreed changes should be recorded in writing in the lease.",
+        "The agent may ask for references from previous landlords or employers. Before paying a holding deposit, applicants should obtain its terms in writing."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about viewings must be booked with the agent?",
+          "a": 0,
+          "why": "The notice gives this information directly: Prospective tenants must arrange viewings with the rental agent.",
+          "ev": "Prospective tenants must arrange viewings with the rental agent.",
+          "opts": [
+            "the agent",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The checklist advises applicants to test taps and water pressure.",
+          "a": 0,
+          "why": "The notice gives this information directly: The checklist advises applicants to test taps and water pressure.",
+          "ev": "The checklist advises applicants to test taps and water pressure.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that utility costs should be confirmed before signing ______.",
+          "a": [
+            "before signing"
+          ],
+          "why": "The notice gives this information directly: Applicants should confirm which utilities are included before signing a lease.",
+          "ev": "Applicants should confirm which utilities are included before signing a lease."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about smoke alarms should be tested?",
+          "a": 0,
+          "why": "The notice gives this information directly: Smoke alarms should be checked during the viewing.",
+          "ev": "Smoke alarms should be checked during the viewing.",
+          "opts": [
+            "smoke alarms",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the inventory should be photographed?",
+          "a": 0,
+          "why": "The notice gives this information directly: Tenants are advised to photograph the inventory and existing damage.",
+          "ev": "Tenants are advised to photograph the inventory and existing damage.",
+          "opts": [
+            "photographed",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: Any agreed changes should be recorded in writing in the lease.",
+          "ev": "Any agreed changes should be recorded in writing in the lease.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about references may be requested?",
+          "a": [
+            "references"
+          ],
+          "why": "The notice gives this information directly: The agent may ask for references from previous landlords or employers.",
+          "ev": "The agent may ask for references from previous landlords or employers."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Before paying a holding deposit, applicants should obtain its terms in writing.",
+          "a": 0,
+          "why": "The notice gives this information directly: Before paying a holding deposit, applicants should obtain its terms in writing.",
+          "ev": "Before paying a holding deposit, applicants should obtain its terms in writing.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — viewings must be booked with the agent; answer: ______.",
+          "a": [
+            "the agent"
+          ],
+          "why": "The notice gives this information directly: Prospective tenants must arrange viewings with the rental agent.",
+          "ev": "Prospective tenants must arrange viewings with the rental agent."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about applicants should check water pressure?",
+          "a": 0,
+          "why": "The notice gives this information directly: The checklist advises applicants to test taps and water pressure.",
+          "ev": "The checklist advises applicants to test taps and water pressure.",
+          "opts": [
+            "water pressure",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that utility costs should be confirmed before signing ______.",
+          "a": [
+            "before signing"
+          ],
+          "why": "The notice gives this information directly: Applicants should confirm which utilities are included before signing a lease.",
+          "ev": "Applicants should confirm which utilities are included before signing a lease."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about smoke alarms should be tested?",
+          "a": 0,
+          "why": "The notice gives this information directly: Smoke alarms should be checked during the viewing.",
+          "ev": "Smoke alarms should be checked during the viewing.",
+          "opts": [
+            "smoke alarms",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about the inventory should be photographed?",
+          "a": [
+            "photographed"
+          ],
+          "why": "The notice gives this information directly: Tenants are advised to photograph the inventory and existing damage.",
+          "ev": "Tenants are advised to photograph the inventory and existing damage."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Any agreed changes should be recorded in writing in the lease.",
+          "a": 0,
+          "why": "The notice gives this information directly: Any agreed changes should be recorded in writing in the lease.",
+          "ev": "Any agreed changes should be recorded in writing in the lease.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "General Training Full-Length Reading Practice Test 6",
+      "pathway": "General Training",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "gt-v06-p1",
+        "gt-v06-p2",
+        "gt-v06-p3"
+      ]
+    }
+  ]
+}

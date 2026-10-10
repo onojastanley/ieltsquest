@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "description": "Original General Training IELTS Reading practice test 4. Not an official IELTS test.",
+  "passages": [
+    {
+      "id": "gt-v04-p1",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Neighbourhood Volunteer Programme",
+      "intro": "How to take part in local volunteering",
+      "paras": [
+        "Applicants must be at least sixteen years old to volunteer. A group orientation is held on the first Saturday of each month.",
+        "Local travel costs can be reimbursed when volunteers submit receipts. The food bank accepts only unopened, in-date packaged donations.",
+        "Volunteers are asked to give one week's notice if they cannot attend a shift. A volunteer coordinator confirms each person's shift and duties.",
+        "Volunteers must complete training before making home visits. A participation certificate is available after twenty completed volunteer hours."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about volunteers must be at least sixteen?",
+          "a": 0,
+          "why": "The notice gives this information directly: Applicants must be at least sixteen years old to volunteer.",
+          "ev": "Applicants must be at least sixteen years old to volunteer.",
+          "opts": [
+            "sixteen",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "A group orientation is held on the first Saturday of each month.",
+          "a": 0,
+          "why": "The notice gives this information directly: A group orientation is held on the first Saturday of each month.",
+          "ev": "A group orientation is held on the first Saturday of each month.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that travel costs are reimbursed with receipts ______.",
+          "a": [
+            "receipts"
+          ],
+          "why": "The notice gives this information directly: Local travel costs can be reimbursed when volunteers submit receipts.",
+          "ev": "Local travel costs can be reimbursed when volunteers submit receipts."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about food donations are accepted unopened?",
+          "a": 0,
+          "why": "The notice gives this information directly: The food bank accepts only unopened, in-date packaged donations.",
+          "ev": "The food bank accepts only unopened, in-date packaged donations.",
+          "opts": [
+            "unopened",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about volunteers should give one week's notice of absence?",
+          "a": 0,
+          "why": "The notice gives this information directly: Volunteers are asked to give one week's notice if they cannot attend a shift.",
+          "ev": "Volunteers are asked to give one week's notice if they cannot attend a shift.",
+          "opts": [
+            "one week's notice",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The notice says this service is available at midnight.",
+          "a": 1,
+          "why": "The notice gives this information directly: A volunteer coordinator confirms each person's shift and duties.",
+          "ev": "A volunteer coordinator confirms each person's shift and duties.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about training is provided for home visits?",
+          "a": [
+            "home visits"
+          ],
+          "why": "The notice gives this information directly: Volunteers must complete training before making home visits.",
+          "ev": "Volunteers must complete training before making home visits."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "A participation certificate is available after twenty completed volunteer hours.",
+          "a": 0,
+          "why": "The notice gives this information directly: A participation certificate is available after twenty completed volunteer hours.",
+          "ev": "A participation certificate is available after twenty completed volunteer hours.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — volunteers must be at least sixteen; answer: ______.",
+          "a": [
+            "sixteen"
+          ],
+          "why": "The notice gives this information directly: Applicants must be at least sixteen years old to volunteer.",
+          "ev": "Applicants must be at least sixteen years old to volunteer."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about orientation takes place on the first Saturday?",
+          "a": 0,
+          "why": "The notice gives this information directly: A group orientation is held on the first Saturday of each month.",
+          "ev": "A group orientation is held on the first Saturday of each month.",
+          "opts": [
+            "the first Saturday",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that travel costs are reimbursed with receipts ______.",
+          "a": [
+            "receipts"
+          ],
+          "why": "The notice gives this information directly: Local travel costs can be reimbursed when volunteers submit receipts.",
+          "ev": "Local travel costs can be reimbursed when volunteers submit receipts."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about food donations are accepted unopened?",
+          "a": 0,
+          "why": "The notice gives this information directly: The food bank accepts only unopened, in-date packaged donations.",
+          "ev": "The food bank accepts only unopened, in-date packaged donations.",
+          "opts": [
+            "unopened",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about volunteers should give one week's notice of absence?",
+          "a": [
+            "one week's notice"
+          ],
+          "why": "The notice gives this information directly: Volunteers are asked to give one week's notice if they cannot attend a shift.",
+          "ev": "Volunteers are asked to give one week's notice if they cannot attend a shift."
+        }
+      ]
+    },
+    {
+      "id": "gt-v04-p2",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Adult Learning Centre",
+      "intro": "Course information for adult learners",
+      "paras": [
+        "Most evening courses begin at 6 p.m. The centre offers free placement tests for new learners.",
+        "Course books can be borrowed for the length of one term. Learners need at least 75 percent attendance to qualify for a completion certificate.",
+        "On-site childcare must be reserved before the course begins. All basic computer classes meet in Room 204.",
+        "Course fees may be paid in two instalments. Requests to withdraw from a course must be submitted in writing."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about evening classes begin at 6 p.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: Most evening courses begin at 6 p.m.",
+          "ev": "Most evening courses begin at 6 p.m.",
+          "opts": [
+            "6 p.m.",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The centre offers free placement tests for new learners.",
+          "a": 0,
+          "why": "The notice gives this information directly: The centre offers free placement tests for new learners.",
+          "ev": "The centre offers free placement tests for new learners.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that students may borrow course books for a term ______.",
+          "a": [
+            "a term"
+          ],
+          "why": "The notice gives this information directly: Course books can be borrowed for the length of one term.",
+          "ev": "Course books can be borrowed for the length of one term."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about attendance below seventy-five percent may affect certification?",
+          "a": 0,
+          "why": "The notice gives this information directly: Learners need at least 75 percent attendance to qualify for a completion certificate.",
+          "ev": "Learners need at least 75 percent attendance to qualify for a completion certificate.",
+          "opts": [
+            "seventy-five percent",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about childcare must be booked in advance?",
+          "a": 0,
+          "why": "The notice gives this information directly: On-site childcare must be reserved before the course begins.",
+          "ev": "On-site childcare must be reserved before the course begins.",
+          "opts": [
+            "in advance",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "All basic computer classes meet in the following month.",
+          "a": 1,
+          "why": "The notice gives this information directly: All basic computer classes meet in Room 204.",
+          "ev": "All basic computer classes meet in Room 204.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about fees can be paid in two instalments?",
+          "a": [
+            "two instalments"
+          ],
+          "why": "The notice gives this information directly: Course fees may be paid in two instalments.",
+          "ev": "Course fees may be paid in two instalments."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Requests to withdraw from a course must be submitted in writing.",
+          "a": 0,
+          "why": "The notice gives this information directly: Requests to withdraw from a course must be submitted in writing.",
+          "ev": "Requests to withdraw from a course must be submitted in writing.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — evening classes begin at 6 p.m.; answer: ______.",
+          "a": [
+            "6 p.m."
+          ],
+          "why": "The notice gives this information directly: Most evening courses begin at 6 p.m.",
+          "ev": "Most evening courses begin at 6 p.m."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about placement tests are free?",
+          "a": 0,
+          "why": "The notice gives this information directly: The centre offers free placement tests for new learners.",
+          "ev": "The centre offers free placement tests for new learners.",
+          "opts": [
+            "free",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that students may borrow course books for a term ______.",
+          "a": [
+            "a term"
+          ],
+          "why": "The notice gives this information directly: Course books can be borrowed for the length of one term.",
+          "ev": "Course books can be borrowed for the length of one term."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about attendance below seventy-five percent may affect certification?",
+          "a": 0,
+          "why": "The notice gives this information directly: Learners need at least 75 percent attendance to qualify for a completion certificate.",
+          "ev": "Learners need at least 75 percent attendance to qualify for a completion certificate.",
+          "opts": [
+            "seventy-five percent",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about childcare must be booked in advance?",
+          "a": [
+            "in advance"
+          ],
+          "why": "The notice gives this information directly: On-site childcare must be reserved before the course begins.",
+          "ev": "On-site childcare must be reserved before the course begins."
+        }
+      ]
+    },
+    {
+      "id": "gt-v04-p3",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Farmers' Market Visitor Guide",
+      "intro": "Practical details for market visitors",
+      "paras": [
+        "The farmers' market is open every Saturday morning. The first hour is intended for shoppers who prefer a quieter environment.",
+        "Most vendors accept debit or credit cards, although a few remain cash-only. Visitors are encouraged to bring reusable shopping bags.",
+        "Dogs are welcome outdoors if kept on a short lead. Market visitors receive ninety minutes of free parking.",
+        "Hot-food vendors are grouped near the south entrance. Some sellers reduce prices on remaining produce shortly before closing."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the market operates on Saturdays?",
+          "a": 0,
+          "why": "The notice gives this information directly: The farmers' market is open every Saturday morning.",
+          "ev": "The farmers' market is open every Saturday morning.",
+          "opts": [
+            "Saturdays",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The first hour is intended for shoppers who prefer a quieter environment.",
+          "a": 0,
+          "why": "The notice gives this information directly: The first hour is intended for shoppers who prefer a quieter environment.",
+          "ev": "The first hour is intended for shoppers who prefer a quieter environment.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that most stalls accept card payments ______.",
+          "a": [
+            "card payments"
+          ],
+          "why": "The notice gives this information directly: Most vendors accept debit or credit cards, although a few remain cash-only.",
+          "ev": "Most vendors accept debit or credit cards, although a few remain cash-only."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about reusable bags are encouraged?",
+          "a": 0,
+          "why": "The notice gives this information directly: Visitors are encouraged to bring reusable shopping bags.",
+          "ev": "Visitors are encouraged to bring reusable shopping bags.",
+          "opts": [
+            "reusable bags",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about dogs must remain on a short lead?",
+          "a": 0,
+          "why": "The notice gives this information directly: Dogs are welcome outdoors if kept on a short lead.",
+          "ev": "Dogs are welcome outdoors if kept on a short lead.",
+          "opts": [
+            "a short lead",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Market visitors receive the following month of free parking.",
+          "a": 1,
+          "why": "The notice gives this information directly: Market visitors receive ninety minutes of free parking.",
+          "ev": "Market visitors receive ninety minutes of free parking.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about hot food is sold near the south entrance?",
+          "a": [
+            "the south entrance"
+          ],
+          "why": "The notice gives this information directly: Hot-food vendors are grouped near the south entrance.",
+          "ev": "Hot-food vendors are grouped near the south entrance."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Some sellers reduce prices on remaining produce shortly before closing.",
+          "a": 0,
+          "why": "The notice gives this information directly: Some sellers reduce prices on remaining produce shortly before closing.",
+          "ev": "Some sellers reduce prices on remaining produce shortly before closing.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — the market operates on Saturdays; answer: ______.",
+          "a": [
+            "Saturdays"
+          ],
+          "why": "The notice gives this information directly: The farmers' market is open every Saturday morning.",
+          "ev": "The farmers' market is open every Saturday morning."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the first hour is reserved for quieter shopping?",
+          "a": 0,
+          "why": "The notice gives this information directly: The first hour is intended for shoppers who prefer a quieter environment.",
+          "ev": "The first hour is intended for shoppers who prefer a quieter environment.",
+          "opts": [
+            "the first hour",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that most stalls accept card payments ______.",
+          "a": [
+            "card payments"
+          ],
+          "why": "The notice gives this information directly: Most vendors accept debit or credit cards, although a few remain cash-only.",
+          "ev": "Most vendors accept debit or credit cards, although a few remain cash-only."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about reusable bags are encouraged?",
+          "a": 0,
+          "why": "The notice gives this information directly: Visitors are encouraged to bring reusable shopping bags.",
+          "ev": "Visitors are encouraged to bring reusable shopping bags.",
+          "opts": [
+            "reusable bags",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about dogs must remain on a short lead?",
+          "a": [
+            "a short lead"
+          ],
+          "why": "The notice gives this information directly: Dogs are welcome outdoors if kept on a short lead.",
+          "ev": "Dogs are welcome outdoors if kept on a short lead."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Market visitors receive ninety minutes of free parking.",
+          "a": 0,
+          "why": "The notice gives this information directly: Market visitors receive ninety minutes of free parking.",
+          "ev": "Market visitors receive ninety minutes of free parking.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "General Training Full-Length Reading Practice Test 4",
+      "pathway": "General Training",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "gt-v04-p1",
+        "gt-v04-p2",
+        "gt-v04-p3"
+      ]
+    }
+  ]
+}

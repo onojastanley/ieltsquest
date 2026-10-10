@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "description": "Original General Training IELTS Reading practice test 9. Not an official IELTS test.",
+  "passages": [
+    {
+      "id": "gt-v09-p1",
+      "pathway": "General Training",
+      "level": 3,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Office Reception Procedures",
+      "intro": "Procedures employees must follow",
+      "paras": [
+        "Every visitor must sign in using the electronic register. Reception provides visitors with a temporary identification badge.",
+        "All courier parcels are entered into the parcel log when delivered. Confidential documents must not be left unattended at reception.",
+        "Employees reserve meeting rooms through the shared calendar. Staff need manager approval for after-hours building access.",
+        "The emergency contact list is stored in the red folder beside the desk. Reception transfers calls and does not give out employees' private numbers."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about visitors sign the electronic register?",
+          "a": 0,
+          "why": "The notice gives this information directly: Every visitor must sign in using the electronic register.",
+          "ev": "Every visitor must sign in using the electronic register.",
+          "opts": [
+            "the electronic register",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Reception provides visitors with a temporary identification badge.",
+          "a": 0,
+          "why": "The notice gives this information directly: Reception provides visitors with a temporary identification badge.",
+          "ev": "Reception provides visitors with a temporary identification badge.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that courier parcels are logged on arrival ______.",
+          "a": [
+            "on arrival"
+          ],
+          "why": "The notice gives this information directly: All courier parcels are entered into the parcel log when delivered.",
+          "ev": "All courier parcels are entered into the parcel log when delivered."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about confidential documents are never left at the desk?",
+          "a": 0,
+          "why": "The notice gives this information directly: Confidential documents must not be left unattended at reception.",
+          "ev": "Confidential documents must not be left unattended at reception.",
+          "opts": [
+            "never left",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about meeting rooms can be booked through the calendar?",
+          "a": 0,
+          "why": "The notice gives this information directly: Employees reserve meeting rooms through the shared calendar.",
+          "ev": "Employees reserve meeting rooms through the shared calendar.",
+          "opts": [
+            "the calendar",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Staff need the following month for after-hours building access.",
+          "a": 1,
+          "why": "The notice gives this information directly: Staff need manager approval for after-hours building access.",
+          "ev": "Staff need manager approval for after-hours building access.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about emergency contacts are kept in the red folder?",
+          "a": [
+            "the red folder"
+          ],
+          "why": "The notice gives this information directly: The emergency contact list is stored in the red folder beside the desk.",
+          "ev": "The emergency contact list is stored in the red folder beside the desk."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Reception transfers calls and does not give out employees' private numbers.",
+          "a": 0,
+          "why": "The notice gives this information directly: Reception transfers calls and does not give out employees' private numbers.",
+          "ev": "Reception transfers calls and does not give out employees' private numbers.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — visitors sign the electronic register; answer: ______.",
+          "a": [
+            "the electronic register"
+          ],
+          "why": "The notice gives this information directly: Every visitor must sign in using the electronic register.",
+          "ev": "Every visitor must sign in using the electronic register."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about staff issue a temporary badge?",
+          "a": 0,
+          "why": "The notice gives this information directly: Reception provides visitors with a temporary identification badge.",
+          "ev": "Reception provides visitors with a temporary identification badge.",
+          "opts": [
+            "a temporary badge",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that courier parcels are logged on arrival ______.",
+          "a": [
+            "on arrival"
+          ],
+          "why": "The notice gives this information directly: All courier parcels are entered into the parcel log when delivered.",
+          "ev": "All courier parcels are entered into the parcel log when delivered."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about confidential documents are never left at the desk?",
+          "a": 0,
+          "why": "The notice gives this information directly: Confidential documents must not be left unattended at reception.",
+          "ev": "Confidential documents must not be left unattended at reception.",
+          "opts": [
+            "never left",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about meeting rooms can be booked through the calendar?",
+          "a": [
+            "the calendar"
+          ],
+          "why": "The notice gives this information directly: Employees reserve meeting rooms through the shared calendar.",
+          "ev": "Employees reserve meeting rooms through the shared calendar."
+        }
+      ]
+    },
+    {
+      "id": "gt-v09-p2",
+      "pathway": "General Training",
+      "level": 3,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "City Bicycle Share Scheme",
+      "intro": "Practical information for local passengers",
+      "paras": [
+        "The app is used to locate and unlock available bicycles. Selected passes include the first fifteen minutes of each journey.",
+        "Riders must return bicycles to an official marked dock. Helmets are strongly recommended, but the scheme does not provide them.",
+        "Users should report a fault and quote the bicycle's identification number. Monthly passes renew automatically unless cancelled.",
+        "Bicycles must not be ridden through pedestrian-only plazas. Customer support is available daily from 7 a.m. until 9 p.m."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about users unlock bicycles with the mobile app?",
+          "a": 0,
+          "why": "The notice gives this information directly: The app is used to locate and unlock available bicycles.",
+          "ev": "The app is used to locate and unlock available bicycles.",
+          "opts": [
+            "the mobile app",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Selected passes include the first fifteen minutes of each journey.",
+          "a": 0,
+          "why": "The notice gives this information directly: Selected passes include the first fifteen minutes of each journey.",
+          "ev": "Selected passes include the first fifteen minutes of each journey.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that bicycles must be returned to marked docks ______.",
+          "a": [
+            "marked docks"
+          ],
+          "why": "The notice gives this information directly: Riders must return bicycles to an official marked dock.",
+          "ev": "Riders must return bicycles to an official marked dock."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about helmets are recommended but not supplied?",
+          "a": 0,
+          "why": "The notice gives this information directly: Helmets are strongly recommended, but the scheme does not provide them.",
+          "ev": "Helmets are strongly recommended, but the scheme does not provide them.",
+          "opts": [
+            "not supplied",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about faults can be reported using the bike number?",
+          "a": 0,
+          "why": "The notice gives this information directly: Users should report a fault and quote the bicycle's identification number.",
+          "ev": "Users should report a fault and quote the bicycle's identification number.",
+          "opts": [
+            "the bike number",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Monthly passes renew the following month unless cancelled.",
+          "a": 1,
+          "why": "The notice gives this information directly: Monthly passes renew automatically unless cancelled.",
+          "ev": "Monthly passes renew automatically unless cancelled.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about riding is prohibited in pedestrian-only plazas?",
+          "a": [
+            "pedestrian-only plazas"
+          ],
+          "why": "The notice gives this information directly: Bicycles must not be ridden through pedestrian-only plazas.",
+          "ev": "Bicycles must not be ridden through pedestrian-only plazas."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Customer support is available daily from 7 a.m. until 9 p.m.",
+          "a": 0,
+          "why": "The notice gives this information directly: Customer support is available daily from 7 a.m. until 9 p.m.",
+          "ev": "Customer support is available daily from 7 a.m. until 9 p.m.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — users unlock bicycles with the mobile app; answer: ______.",
+          "a": [
+            "the mobile app"
+          ],
+          "why": "The notice gives this information directly: The app is used to locate and unlock available bicycles.",
+          "ev": "The app is used to locate and unlock available bicycles."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about the first fifteen minutes are included in some passes?",
+          "a": 0,
+          "why": "The notice gives this information directly: Selected passes include the first fifteen minutes of each journey.",
+          "ev": "Selected passes include the first fifteen minutes of each journey.",
+          "opts": [
+            "fifteen minutes",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that bicycles must be returned to marked docks ______.",
+          "a": [
+            "marked docks"
+          ],
+          "why": "The notice gives this information directly: Riders must return bicycles to an official marked dock.",
+          "ev": "Riders must return bicycles to an official marked dock."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about helmets are recommended but not supplied?",
+          "a": 0,
+          "why": "The notice gives this information directly: Helmets are strongly recommended, but the scheme does not provide them.",
+          "ev": "Helmets are strongly recommended, but the scheme does not provide them.",
+          "opts": [
+            "not supplied",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about faults can be reported using the bike number?",
+          "a": [
+            "the bike number"
+          ],
+          "why": "The notice gives this information directly: Users should report a fault and quote the bicycle's identification number.",
+          "ev": "Users should report a fault and quote the bicycle's identification number."
+        }
+      ]
+    },
+    {
+      "id": "gt-v09-p3",
+      "pathway": "General Training",
+      "level": 3,
+      "zone": "General Training Mission",
+      "icon": "📄",
+      "title": "Hotel Housekeeping Notice",
+      "intro": "Procedures employees must follow",
+      "paras": [
+        "Guests who do not want room service should place the privacy card on the door. Requests for extra towels are normally completed before 4 p.m.",
+        "Guests are advised to keep valuables in the room safe. A lost room key must be reported to reception immediately.",
+        "Cleaning products are kept in locked housekeeping carts. Housekeeping staff record any minibar items that have been used.",
+        "Any maintenance issue is entered in the system before staff leave the room. Found property is labelled with the room number and date it was discovered."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about guests can request no room service using a door card?",
+          "a": 0,
+          "why": "The notice gives this information directly: Guests who do not want room service should place the privacy card on the door.",
+          "ev": "Guests who do not want room service should place the privacy card on the door.",
+          "opts": [
+            "a door card",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Requests for extra towels are normally completed before 4 p.m.",
+          "a": 0,
+          "why": "The notice gives this information directly: Requests for extra towels are normally completed before 4 p.m.",
+          "ev": "Requests for extra towels are normally completed before 4 p.m.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that valuables should be placed in the room safe ______.",
+          "a": [
+            "the room safe"
+          ],
+          "why": "The notice gives this information directly: Guests are advised to keep valuables in the room safe.",
+          "ev": "Guests are advised to keep valuables in the room safe."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is given about lost keys should be reported to reception?",
+          "a": 0,
+          "why": "The notice gives this information directly: A lost room key must be reported to reception immediately.",
+          "ev": "A lost room key must be reported to reception immediately.",
+          "opts": [
+            "reception",
+            "a rule that applies only in winter",
+            "a service available only by invitation",
+            "a fee paid every day"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about cleaning products are stored in locked carts?",
+          "a": 0,
+          "why": "The notice gives this information directly: Cleaning products are kept in locked housekeeping carts.",
+          "ev": "Cleaning products are kept in locked housekeeping carts.",
+          "opts": [
+            "locked carts",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Housekeeping staff record any the following month that have been used.",
+          "a": 1,
+          "why": "The notice gives this information directly: Housekeeping staff record any minibar items that have been used.",
+          "ev": "Housekeeping staff record any minibar items that have been used.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about maintenance issues are logged before leaving the room?",
+          "a": [
+            "before leaving"
+          ],
+          "why": "The notice gives this information directly: Any maintenance issue is entered in the system before staff leave the room.",
+          "ev": "Any maintenance issue is entered in the system before staff leave the room."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Found property is labelled with the room number and date it was discovered.",
+          "a": 0,
+          "why": "The notice gives this information directly: Found property is labelled with the room number and date it was discovered.",
+          "ev": "Found property is labelled with the room number and date it was discovered.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the information: Requirement or detail — guests can request no room service using a door card; answer: ______.",
+          "a": [
+            "a door card"
+          ],
+          "why": "The notice gives this information directly: Guests who do not want room service should place the privacy card on the door.",
+          "ev": "Guests who do not want room service should place the privacy card on the door."
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the notice, what is true about extra towels are delivered before 4 p.m.?",
+          "a": 0,
+          "why": "The notice gives this information directly: Requests for extra towels are normally completed before 4 p.m.",
+          "ev": "Requests for extra towels are normally completed before 4 p.m.",
+          "opts": [
+            "before 4 p.m.",
+            "the previous calendar month",
+            "only after written approval",
+            "at the end of the year"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The notice states that valuables should be placed in the room safe ______.",
+          "a": [
+            "the room safe"
+          ],
+          "why": "The notice gives this information directly: Guests are advised to keep valuables in the room safe.",
+          "ev": "Guests are advised to keep valuables in the room safe."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which detail matches the notice's information about lost keys should be reported to reception?",
+          "a": 0,
+          "why": "The notice gives this information directly: A lost room key must be reported to reception immediately.",
+          "ev": "A lost room key must be reported to reception immediately.",
+          "opts": [
+            "reception",
+            "the following calendar month",
+            "a fee paid every day",
+            "a rule that applies only in winter"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What is stated about cleaning products are stored in locked carts?",
+          "a": [
+            "locked carts"
+          ],
+          "why": "The notice gives this information directly: Cleaning products are kept in locked housekeeping carts.",
+          "ev": "Cleaning products are kept in locked housekeeping carts."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Housekeeping staff record any minibar items that have been used.",
+          "a": 0,
+          "why": "The notice gives this information directly: Housekeeping staff record any minibar items that have been used.",
+          "ev": "Housekeeping staff record any minibar items that have been used.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "General Training Full-Length Reading Practice Test 9",
+      "pathway": "General Training",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "gt-v09-p1",
+        "gt-v09-p2",
+        "gt-v09-p3"
+      ]
+    }
+  ]
+}
