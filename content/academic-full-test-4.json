@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "description": "Original Academic IELTS Reading practice test 4. Not an official IELTS paper.",
+  "passages": [
+    {
+      "id": "ac-v04-p1",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "The Evolution of Public Museums",
+      "intro": "An academic-style overview of history, examining evidence and practical implications.",
+      "paras": [
+        "Many early collections were assembled by wealthy individuals or institutions. Access to museums expanded at different rates in different places.",
+        "Explanatory labels influence how visitors understand displayed objects. Consultation may reveal histories that collections previously neglected.",
+        "Some objects cannot remain on display continuously because light can damage them. Online catalogues help researchers and visitors find collection items.",
+        "Visitor numbers alone do not show what people learned. Many institutions now study how visitors engage with exhibits."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about private collections?",
+          "a": 0,
+          "why": "The passage states: Many early collections were assembled by wealthy individuals or institutions.",
+          "ev": "Many early collections were assembled by wealthy individuals or institutions.",
+          "opts": [
+            "private collections",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that public access is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Access to museums expanded at different rates in different places.",
+          "ev": "Access to museums expanded at different rates in different places.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that labels ______.",
+          "a": [
+            "labels"
+          ],
+          "why": "The passage states: Explanatory labels influence how visitors understand displayed objects.",
+          "ev": "Explanatory labels influence how visitors understand displayed objects."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with community consultation?",
+          "a": 0,
+          "why": "The passage states: Consultation may reveal histories that collections previously neglected.",
+          "ev": "Consultation may reveal histories that collections previously neglected.",
+          "opts": [
+            "community consultation",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that conservation should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Some objects cannot remain on display continuously because light can damage them.",
+          "ev": "Some objects cannot remain on display continuously because light can damage them.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about digital catalogues?",
+          "a": [
+            "digital catalogues"
+          ],
+          "why": "The passage states: Online catalogues help researchers and visitors find collection items.",
+          "ev": "Online catalogues help researchers and visitors find collection items."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'attendance': ______.",
+          "a": [
+            "attendance"
+          ],
+          "why": "The passage states: Visitor numbers alone do not show what people learned.",
+          "ev": "Visitor numbers alone do not show what people learned."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing visitor experience.",
+          "a": 0,
+          "why": "The passage states: Many institutions now study how visitors engage with exhibits.",
+          "ev": "Many institutions now study how visitors engage with exhibits.",
+          "opts": [
+            "Evidence concerning visitor experience",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about private collections?",
+          "a": 0,
+          "why": "The passage states: Many early collections were assembled by wealthy individuals or institutions.",
+          "ev": "Many early collections were assembled by wealthy individuals or institutions.",
+          "opts": [
+            "private collections",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Access to museums expanded at different rates in different places.",
+          "a": 0,
+          "why": "The passage states: Access to museums expanded at different rates in different places.",
+          "ev": "Access to museums expanded at different rates in different places.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that labels ______.",
+          "a": [
+            "labels"
+          ],
+          "why": "The passage states: Explanatory labels influence how visitors understand displayed objects.",
+          "ev": "Explanatory labels influence how visitors understand displayed objects."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of community consultation?",
+          "a": 0,
+          "why": "The passage states: Consultation may reveal histories that collections previously neglected.",
+          "ev": "Consultation may reveal histories that collections previously neglected.",
+          "opts": [
+            "community consultation",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about conservation?",
+          "a": [
+            "conservation"
+          ],
+          "why": "The passage states: Some objects cannot remain on display continuously because light can damage them.",
+          "ev": "Some objects cannot remain on display continuously because light can damage them."
+        }
+      ]
+    },
+    {
+      "id": "ac-v04-p2",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Remote Work and Collaboration",
+      "intro": "An academic-style overview of work, examining evidence and practical implications.",
+      "paras": [
+        "Remote arrangements can give employees more control over when and where they work. Working apart can reduce spontaneous conversations between colleagues.",
+        "Written records help colleagues in different locations coordinate tasks. Too many online meetings can leave less time for concentrated work.",
+        "Teams across time zones need to schedule communication thoughtfully. Evaluating completed work can be more useful than monitoring online presence.",
+        "People who join remotely may need additional help building relationships. Hybrid arrangements are easier to manage when expectations are explicit."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about autonomy?",
+          "a": 0,
+          "why": "The passage states: Remote arrangements can give employees more control over when and where they work.",
+          "ev": "Remote arrangements can give employees more control over when and where they work.",
+          "opts": [
+            "autonomy",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that informal exchanges is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Working apart can reduce spontaneous conversations between colleagues.",
+          "ev": "Working apart can reduce spontaneous conversations between colleagues.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that documentation ______.",
+          "a": [
+            "documentation"
+          ],
+          "why": "The passage states: Written records help colleagues in different locations coordinate tasks.",
+          "ev": "Written records help colleagues in different locations coordinate tasks."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with online meetings?",
+          "a": 0,
+          "why": "The passage states: Too many online meetings can leave less time for concentrated work.",
+          "ev": "Too many online meetings can leave less time for concentrated work.",
+          "opts": [
+            "online meetings",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that time zones should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Teams across time zones need to schedule communication thoughtfully.",
+          "ev": "Teams across time zones need to schedule communication thoughtfully.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about outcomes?",
+          "a": [
+            "outcomes"
+          ],
+          "why": "The passage states: Evaluating completed work can be more useful than monitoring online presence.",
+          "ev": "Evaluating completed work can be more useful than monitoring online presence."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'social support': ______.",
+          "a": [
+            "social support"
+          ],
+          "why": "The passage states: People who join remotely may need additional help building relationships.",
+          "ev": "People who join remotely may need additional help building relationships."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing clear expectations.",
+          "a": 0,
+          "why": "The passage states: Hybrid arrangements are easier to manage when expectations are explicit.",
+          "ev": "Hybrid arrangements are easier to manage when expectations are explicit.",
+          "opts": [
+            "Evidence concerning clear expectations",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about autonomy?",
+          "a": 0,
+          "why": "The passage states: Remote arrangements can give employees more control over when and where they work.",
+          "ev": "Remote arrangements can give employees more control over when and where they work.",
+          "opts": [
+            "autonomy",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Working apart can reduce spontaneous conversations between colleagues.",
+          "a": 0,
+          "why": "The passage states: Working apart can reduce spontaneous conversations between colleagues.",
+          "ev": "Working apart can reduce spontaneous conversations between colleagues.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that documentation ______.",
+          "a": [
+            "documentation"
+          ],
+          "why": "The passage states: Written records help colleagues in different locations coordinate tasks.",
+          "ev": "Written records help colleagues in different locations coordinate tasks."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of online meetings?",
+          "a": 0,
+          "why": "The passage states: Too many online meetings can leave less time for concentrated work.",
+          "ev": "Too many online meetings can leave less time for concentrated work.",
+          "opts": [
+            "online meetings",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about time zones?",
+          "a": [
+            "time zones"
+          ],
+          "why": "The passage states: Teams across time zones need to schedule communication thoughtfully.",
+          "ev": "Teams across time zones need to schedule communication thoughtfully."
+        }
+      ]
+    },
+    {
+      "id": "ac-v04-p3",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "The Economics of Repair",
+      "intro": "An academic-style overview of economics, examining evidence and practical implications.",
+      "paras": [
+        "Repair can keep a product in use for longer rather than replacing it. Products are harder to repair when replacement parts are unavailable.",
+        "High repair labour costs can make buying a new item seem more economical. A product's design determines how easily it can be taken apart.",
+        "Community repair events allow people to exchange practical skills. Some warranty terms discourage or restrict repairs by unauthorised providers.",
+        "The environmental advantage of repair varies with the product and process. Regulations can encourage manufacturers to provide parts and repair information."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about useful life?",
+          "a": 0,
+          "why": "The passage states: Repair can keep a product in use for longer rather than replacing it.",
+          "ev": "Repair can keep a product in use for longer rather than replacing it.",
+          "opts": [
+            "useful life",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that spare parts is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Products are harder to repair when replacement parts are unavailable.",
+          "ev": "Products are harder to repair when replacement parts are unavailable.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that labour costs ______.",
+          "a": [
+            "labour costs"
+          ],
+          "why": "The passage states: High repair labour costs can make buying a new item seem more economical.",
+          "ev": "High repair labour costs can make buying a new item seem more economical."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with product design?",
+          "a": 0,
+          "why": "The passage states: A product's design determines how easily it can be taken apart.",
+          "ev": "A product's design determines how easily it can be taken apart.",
+          "opts": [
+            "product design",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that community workshops should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Community repair events allow people to exchange practical skills.",
+          "ev": "Community repair events allow people to exchange practical skills.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about warranties?",
+          "a": [
+            "warranties"
+          ],
+          "why": "The passage states: Some warranty terms discourage or restrict repairs by unauthorised providers.",
+          "ev": "Some warranty terms discourage or restrict repairs by unauthorised providers."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'environmental impact': ______.",
+          "a": [
+            "environmental impact"
+          ],
+          "why": "The passage states: The environmental advantage of repair varies with the product and process.",
+          "ev": "The environmental advantage of repair varies with the product and process."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing repair information.",
+          "a": 0,
+          "why": "The passage states: Regulations can encourage manufacturers to provide parts and repair information.",
+          "ev": "Regulations can encourage manufacturers to provide parts and repair information.",
+          "opts": [
+            "Evidence concerning repair information",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about useful life?",
+          "a": 0,
+          "why": "The passage states: Repair can keep a product in use for longer rather than replacing it.",
+          "ev": "Repair can keep a product in use for longer rather than replacing it.",
+          "opts": [
+            "useful life",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Products are harder to repair when replacement parts are unavailable.",
+          "a": 0,
+          "why": "The passage states: Products are harder to repair when replacement parts are unavailable.",
+          "ev": "Products are harder to repair when replacement parts are unavailable.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that labour costs ______.",
+          "a": [
+            "labour costs"
+          ],
+          "why": "The passage states: High repair labour costs can make buying a new item seem more economical.",
+          "ev": "High repair labour costs can make buying a new item seem more economical."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of product design?",
+          "a": 0,
+          "why": "The passage states: A product's design determines how easily it can be taken apart.",
+          "ev": "A product's design determines how easily it can be taken apart.",
+          "opts": [
+            "product design",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about community workshops?",
+          "a": [
+            "community workshops"
+          ],
+          "why": "The passage states: Community repair events allow people to exchange practical skills.",
+          "ev": "Community repair events allow people to exchange practical skills."
+        },
+        {
+          "type": "Flow-chart completion",
+          "q": "Complete the flow-chart: consider warranties → identify the point described: ______.",
+          "a": [
+            "warranties"
+          ],
+          "why": "The passage states: Some warranty terms discourage or restrict repairs by unauthorised providers.",
+          "ev": "Some warranty terms discourage or restrict repairs by unauthorised providers."
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Academic Full-Length Reading Practice Test 4",
+      "pathway": "Academic",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "ac-v04-p1",
+        "ac-v04-p2",
+        "ac-v04-p3"
+      ]
+    }
+  ]
+}

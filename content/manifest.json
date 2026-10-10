@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    "academic-full-test-1.json",
+    "academic-full-test-2.json",
+    "academic-full-test-3.json",
+    "academic-full-test-4.json",
+    "academic-full-test-5.json",
+    "academic-full-test-6.json",
+    "academic-full-test-7.json",
+    "academic-full-test-8.json",
+    "academic-full-test-9.json",
+    "academic-full-test-10.json",
+    "academic-full-test-11.json",
+    "general-training-full-test-1.json",
+    "general-training-full-test-2.json",
+    "general-training-full-test-3.json",
+    "general-training-full-test-4.json",
+    "general-training-full-test-5.json",
+    "general-training-full-test-6.json",
+    "general-training-full-test-7.json",
+    "general-training-full-test-8.json",
+    "general-training-full-test-9.json",
+    "general-training-full-test-10.json",
+    "general-training-full-test-11.json",
+    "vocabulary-village-starter.json",
+    "vocabulary-village-advanced.json"
+  ]
+}

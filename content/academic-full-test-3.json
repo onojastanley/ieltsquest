@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "description": "Original Academic IELTS Reading practice test 3. Not an official IELTS paper.",
+  "passages": [
+    {
+      "id": "ac-v03-p1",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Citizen Science and Biodiversity",
+      "intro": "An academic-style overview of biology, examining evidence and practical implications.",
+      "paras": [
+        "Volunteer observers can collect data across areas too large for a small research team. Basic training can make observations more consistent between participants.",
+        "Records of rare species should be checked before being accepted. Weather conditions can affect whether an animal or plant is observed.",
+        "Online platforms allow records from many contributors to be combined. Taking part can increase participants' interest in scientific questions.",
+        "If volunteers concentrate in certain places, other areas may have fewer records. Researchers still need to interpret data and account for its limitations."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about large areas?",
+          "a": 0,
+          "why": "The passage states: Volunteer observers can collect data across areas too large for a small research team.",
+          "ev": "Volunteer observers can collect data across areas too large for a small research team.",
+          "opts": [
+            "large areas",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that training is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Basic training can make observations more consistent between participants.",
+          "ev": "Basic training can make observations more consistent between participants.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that rare species ______.",
+          "a": [
+            "rare species"
+          ],
+          "why": "The passage states: Records of rare species should be checked before being accepted.",
+          "ev": "Records of rare species should be checked before being accepted."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with weather?",
+          "a": 0,
+          "why": "The passage states: Weather conditions can affect whether an animal or plant is observed.",
+          "ev": "Weather conditions can affect whether an animal or plant is observed.",
+          "opts": [
+            "weather",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that digital platforms should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Online platforms allow records from many contributors to be combined.",
+          "ev": "Online platforms allow records from many contributors to be combined.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about public interest?",
+          "a": [
+            "public interest"
+          ],
+          "why": "The passage states: Taking part can increase participants' interest in scientific questions.",
+          "ev": "Taking part can increase participants' interest in scientific questions."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'uneven participation': ______.",
+          "a": [
+            "uneven participation"
+          ],
+          "why": "The passage states: If volunteers concentrate in certain places, other areas may have fewer records.",
+          "ev": "If volunteers concentrate in certain places, other areas may have fewer records."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing interpretation.",
+          "a": 0,
+          "why": "The passage states: Researchers still need to interpret data and account for its limitations.",
+          "ev": "Researchers still need to interpret data and account for its limitations.",
+          "opts": [
+            "Evidence concerning interpretation",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about large areas?",
+          "a": 0,
+          "why": "The passage states: Volunteer observers can collect data across areas too large for a small research team.",
+          "ev": "Volunteer observers can collect data across areas too large for a small research team.",
+          "opts": [
+            "large areas",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Basic training can make observations more consistent between participants.",
+          "a": 0,
+          "why": "The passage states: Basic training can make observations more consistent between participants.",
+          "ev": "Basic training can make observations more consistent between participants.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that rare species ______.",
+          "a": [
+            "rare species"
+          ],
+          "why": "The passage states: Records of rare species should be checked before being accepted.",
+          "ev": "Records of rare species should be checked before being accepted."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of weather?",
+          "a": 0,
+          "why": "The passage states: Weather conditions can affect whether an animal or plant is observed.",
+          "ev": "Weather conditions can affect whether an animal or plant is observed.",
+          "opts": [
+            "weather",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about digital platforms?",
+          "a": [
+            "digital platforms"
+          ],
+          "why": "The passage states: Online platforms allow records from many contributors to be combined.",
+          "ev": "Online platforms allow records from many contributors to be combined."
+        }
+      ]
+    },
+    {
+      "id": "ac-v03-p2",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Why Some Materials Self-Heal",
+      "intro": "An academic-style overview of engineering, examining evidence and practical implications.",
+      "paras": [
+        "Some self-healing materials contain tiny capsules that release a repair agent when damaged. The extent to which a crack closes varies with the material and conditions.",
+        "Certain systems need an external trigger such as heat or light. A limited quantity of healing agent may be used up after repeated damage.",
+        "Laboratory tests are most useful when they reflect conditions materials will face. A repaired area may not regain all of its original mechanical strength.",
+        "Cost still limits the use of some self-healing technologies. Researchers are investigating uses in roads, bridges and other infrastructure."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about microcapsules?",
+          "a": 0,
+          "why": "The passage states: Some self-healing materials contain tiny capsules that release a repair agent when damaged.",
+          "ev": "Some self-healing materials contain tiny capsules that release a repair agent when damaged.",
+          "opts": [
+            "microcapsules",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that crack closure is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: The extent to which a crack closes varies with the material and conditions.",
+          "ev": "The extent to which a crack closes varies with the material and conditions.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that external triggers ______.",
+          "a": [
+            "external triggers"
+          ],
+          "why": "The passage states: Certain systems need an external trigger such as heat or light.",
+          "ev": "Certain systems need an external trigger such as heat or light."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with repair supply?",
+          "a": 0,
+          "why": "The passage states: A limited quantity of healing agent may be used up after repeated damage.",
+          "ev": "A limited quantity of healing agent may be used up after repeated damage.",
+          "opts": [
+            "repair supply",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that testing should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Laboratory tests are most useful when they reflect conditions materials will face.",
+          "ev": "Laboratory tests are most useful when they reflect conditions materials will face.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about strength?",
+          "a": [
+            "strength"
+          ],
+          "why": "The passage states: A repaired area may not regain all of its original mechanical strength.",
+          "ev": "A repaired area may not regain all of its original mechanical strength."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'cost': ______.",
+          "a": [
+            "cost"
+          ],
+          "why": "The passage states: Cost still limits the use of some self-healing technologies.",
+          "ev": "Cost still limits the use of some self-healing technologies."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing infrastructure.",
+          "a": 0,
+          "why": "The passage states: Researchers are investigating uses in roads, bridges and other infrastructure.",
+          "ev": "Researchers are investigating uses in roads, bridges and other infrastructure.",
+          "opts": [
+            "Evidence concerning infrastructure",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about microcapsules?",
+          "a": 0,
+          "why": "The passage states: Some self-healing materials contain tiny capsules that release a repair agent when damaged.",
+          "ev": "Some self-healing materials contain tiny capsules that release a repair agent when damaged.",
+          "opts": [
+            "microcapsules",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The extent to which a crack closes varies with the material and conditions.",
+          "a": 0,
+          "why": "The passage states: The extent to which a crack closes varies with the material and conditions.",
+          "ev": "The extent to which a crack closes varies with the material and conditions.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that external triggers ______.",
+          "a": [
+            "external triggers"
+          ],
+          "why": "The passage states: Certain systems need an external trigger such as heat or light.",
+          "ev": "Certain systems need an external trigger such as heat or light."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of repair supply?",
+          "a": 0,
+          "why": "The passage states: A limited quantity of healing agent may be used up after repeated damage.",
+          "ev": "A limited quantity of healing agent may be used up after repeated damage.",
+          "opts": [
+            "repair supply",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about testing?",
+          "a": [
+            "testing"
+          ],
+          "why": "The passage states: Laboratory tests are most useful when they reflect conditions materials will face.",
+          "ev": "Laboratory tests are most useful when they reflect conditions materials will face."
+        }
+      ]
+    },
+    {
+      "id": "ac-v03-p3",
+      "pathway": "Academic",
+      "level": 3,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Urban Heat Islands",
+      "intro": "An academic-style overview of environment, examining evidence and practical implications.",
+      "paras": [
+        "Concrete and asphalt absorb and store energy from sunlight. Where vegetation is scarce, less water evaporates from leaves and soil to cool the air.",
+        "Urban areas may stay warmer at night because built surfaces release stored heat. The cooling effect of trees depends on canopy size and where they are planted.",
+        "Some reflective surfaces absorb less solar energy than darker alternatives. Cities must balance cooling measures with other demands for urban space.",
+        "Older people and some people with health conditions can be more affected by extreme heat. Measurements at multiple sites show that heat varies from street to street."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about built surfaces?",
+          "a": 0,
+          "why": "The passage states: Concrete and asphalt absorb and store energy from sunlight.",
+          "ev": "Concrete and asphalt absorb and store energy from sunlight.",
+          "opts": [
+            "built surfaces",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that evaporative cooling is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Where vegetation is scarce, less water evaporates from leaves and soil to cool the air.",
+          "ev": "Where vegetation is scarce, less water evaporates from leaves and soil to cool the air.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that night temperatures ______.",
+          "a": [
+            "night temperatures"
+          ],
+          "why": "The passage states: Urban areas may stay warmer at night because built surfaces release stored heat.",
+          "ev": "Urban areas may stay warmer at night because built surfaces release stored heat."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with tree placement?",
+          "a": 0,
+          "why": "The passage states: The cooling effect of trees depends on canopy size and where they are planted.",
+          "ev": "The cooling effect of trees depends on canopy size and where they are planted.",
+          "opts": [
+            "tree placement",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that reflective surfaces should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Some reflective surfaces absorb less solar energy than darker alternatives.",
+          "ev": "Some reflective surfaces absorb less solar energy than darker alternatives.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about limited space?",
+          "a": [
+            "limited space"
+          ],
+          "why": "The passage states: Cities must balance cooling measures with other demands for urban space.",
+          "ev": "Cities must balance cooling measures with other demands for urban space."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'vulnerable residents': ______.",
+          "a": [
+            "vulnerable residents"
+          ],
+          "why": "The passage states: Older people and some people with health conditions can be more affected by extreme heat.",
+          "ev": "Older people and some people with health conditions can be more affected by extreme heat."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing local measurements.",
+          "a": 0,
+          "why": "The passage states: Measurements at multiple sites show that heat varies from street to street.",
+          "ev": "Measurements at multiple sites show that heat varies from street to street.",
+          "opts": [
+            "Evidence concerning local measurements",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about built surfaces?",
+          "a": 0,
+          "why": "The passage states: Concrete and asphalt absorb and store energy from sunlight.",
+          "ev": "Concrete and asphalt absorb and store energy from sunlight.",
+          "opts": [
+            "built surfaces",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Where vegetation is scarce, less water evaporates from leaves and soil to cool the air.",
+          "a": 0,
+          "why": "The passage states: Where vegetation is scarce, less water evaporates from leaves and soil to cool the air.",
+          "ev": "Where vegetation is scarce, less water evaporates from leaves and soil to cool the air.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that night temperatures ______.",
+          "a": [
+            "night temperatures"
+          ],
+          "why": "The passage states: Urban areas may stay warmer at night because built surfaces release stored heat.",
+          "ev": "Urban areas may stay warmer at night because built surfaces release stored heat."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of tree placement?",
+          "a": 0,
+          "why": "The passage states: The cooling effect of trees depends on canopy size and where they are planted.",
+          "ev": "The cooling effect of trees depends on canopy size and where they are planted.",
+          "opts": [
+            "tree placement",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about reflective surfaces?",
+          "a": [
+            "reflective surfaces"
+          ],
+          "why": "The passage states: Some reflective surfaces absorb less solar energy than darker alternatives.",
+          "ev": "Some reflective surfaces absorb less solar energy than darker alternatives."
+        },
+        {
+          "type": "Flow-chart completion",
+          "q": "Complete the flow-chart: consider limited space → identify the point described: ______.",
+          "a": [
+            "limited space"
+          ],
+          "why": "The passage states: Cities must balance cooling measures with other demands for urban space.",
+          "ev": "Cities must balance cooling measures with other demands for urban space."
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Academic Full-Length Reading Practice Test 3",
+      "pathway": "Academic",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "ac-v03-p1",
+        "ac-v03-p2",
+        "ac-v03-p3"
+      ]
+    }
+  ]
+}

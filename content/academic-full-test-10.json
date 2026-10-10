@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "description": "Original Academic IELTS Reading practice test 10. Not an official IELTS paper.",
+  "passages": [
+    {
+      "id": "ac-v10-p1",
+      "pathway": "Academic",
+      "level": 4,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Why Cities Preserve Historic Buildings",
+      "intro": "An academic-style overview of architecture, examining evidence and practical implications.",
+      "paras": [
+        "Older buildings can provide evidence about how people lived and worked. Historic places can contribute to a community's sense of identity.",
+        "Work on old buildings can uncover structural problems that were not visible beforehand. Adapting a building to a new purpose can help fund its continued use.",
+        "Conservation requirements may add steps and constraints to renovation projects. Repairs are more successful when materials and techniques suit the original structure.",
+        "Some buildings need alterations to remain safe and useful. Community discussion can influence which places are prioritised for preservation."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about historical evidence?",
+          "a": 0,
+          "why": "The passage states: Older buildings can provide evidence about how people lived and worked.",
+          "ev": "Older buildings can provide evidence about how people lived and worked.",
+          "opts": [
+            "historical evidence",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that local identity is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Historic places can contribute to a community's sense of identity.",
+          "ev": "Historic places can contribute to a community's sense of identity.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that hidden problems ______.",
+          "a": [
+            "hidden problems"
+          ],
+          "why": "The passage states: Work on old buildings can uncover structural problems that were not visible beforehand.",
+          "ev": "Work on old buildings can uncover structural problems that were not visible beforehand."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with adaptive reuse?",
+          "a": 0,
+          "why": "The passage states: Adapting a building to a new purpose can help fund its continued use.",
+          "ev": "Adapting a building to a new purpose can help fund its continued use.",
+          "opts": [
+            "adaptive reuse",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that conservation rules should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Conservation requirements may add steps and constraints to renovation projects.",
+          "ev": "Conservation requirements may add steps and constraints to renovation projects.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about compatible repairs?",
+          "a": [
+            "compatible repairs"
+          ],
+          "why": "The passage states: Repairs are more successful when materials and techniques suit the original structure.",
+          "ev": "Repairs are more successful when materials and techniques suit the original structure."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'alterations': ______.",
+          "a": [
+            "alterations"
+          ],
+          "why": "The passage states: Some buildings need alterations to remain safe and useful.",
+          "ev": "Some buildings need alterations to remain safe and useful."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing public participation.",
+          "a": 0,
+          "why": "The passage states: Community discussion can influence which places are prioritised for preservation.",
+          "ev": "Community discussion can influence which places are prioritised for preservation.",
+          "opts": [
+            "Evidence concerning public participation",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about historical evidence?",
+          "a": 0,
+          "why": "The passage states: Older buildings can provide evidence about how people lived and worked.",
+          "ev": "Older buildings can provide evidence about how people lived and worked.",
+          "opts": [
+            "historical evidence",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Historic places can contribute to a community's sense of identity.",
+          "a": 0,
+          "why": "The passage states: Historic places can contribute to a community's sense of identity.",
+          "ev": "Historic places can contribute to a community's sense of identity.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that hidden problems ______.",
+          "a": [
+            "hidden problems"
+          ],
+          "why": "The passage states: Work on old buildings can uncover structural problems that were not visible beforehand.",
+          "ev": "Work on old buildings can uncover structural problems that were not visible beforehand."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of adaptive reuse?",
+          "a": 0,
+          "why": "The passage states: Adapting a building to a new purpose can help fund its continued use.",
+          "ev": "Adapting a building to a new purpose can help fund its continued use.",
+          "opts": [
+            "adaptive reuse",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about conservation rules?",
+          "a": [
+            "conservation rules"
+          ],
+          "why": "The passage states: Conservation requirements may add steps and constraints to renovation projects.",
+          "ev": "Conservation requirements may add steps and constraints to renovation projects."
+        }
+      ]
+    },
+    {
+      "id": "ac-v10-p2",
+      "pathway": "Academic",
+      "level": 4,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "The Science of Soil Health",
+      "intro": "An academic-style overview of agriculture, examining evidence and practical implications.",
+      "paras": [
+        "Soil structure affects how water enters, drains through and remains in soil. Organic material provides resources for many soil organisms.",
+        "Changing crops between seasons can disrupt certain pests and diseases. Compacted soil can limit root development and reduce water infiltration.",
+        "Cover crops reduce the period when soil is left exposed. Plant growth depends on an appropriate supply of multiple nutrients.",
+        "Testing helps farmers decide whether soil needs particular amendments. Improvements in soil health may take multiple growing seasons to become evident."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about water movement?",
+          "a": 0,
+          "why": "The passage states: Soil structure affects how water enters, drains through and remains in soil.",
+          "ev": "Soil structure affects how water enters, drains through and remains in soil.",
+          "opts": [
+            "water movement",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that organic matter is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Organic material provides resources for many soil organisms.",
+          "ev": "Organic material provides resources for many soil organisms.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that crop rotation ______.",
+          "a": [
+            "crop rotation"
+          ],
+          "why": "The passage states: Changing crops between seasons can disrupt certain pests and diseases.",
+          "ev": "Changing crops between seasons can disrupt certain pests and diseases."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with compaction?",
+          "a": 0,
+          "why": "The passage states: Compacted soil can limit root development and reduce water infiltration.",
+          "ev": "Compacted soil can limit root development and reduce water infiltration.",
+          "opts": [
+            "compaction",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that cover crops should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Cover crops reduce the period when soil is left exposed.",
+          "ev": "Cover crops reduce the period when soil is left exposed.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about nutrients?",
+          "a": [
+            "nutrients"
+          ],
+          "why": "The passage states: Plant growth depends on an appropriate supply of multiple nutrients.",
+          "ev": "Plant growth depends on an appropriate supply of multiple nutrients."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'soil testing': ______.",
+          "a": [
+            "soil testing"
+          ],
+          "why": "The passage states: Testing helps farmers decide whether soil needs particular amendments.",
+          "ev": "Testing helps farmers decide whether soil needs particular amendments."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing recovery.",
+          "a": 0,
+          "why": "The passage states: Improvements in soil health may take multiple growing seasons to become evident.",
+          "ev": "Improvements in soil health may take multiple growing seasons to become evident.",
+          "opts": [
+            "Evidence concerning recovery",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about water movement?",
+          "a": 0,
+          "why": "The passage states: Soil structure affects how water enters, drains through and remains in soil.",
+          "ev": "Soil structure affects how water enters, drains through and remains in soil.",
+          "opts": [
+            "water movement",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Organic material provides resources for many soil organisms.",
+          "a": 0,
+          "why": "The passage states: Organic material provides resources for many soil organisms.",
+          "ev": "Organic material provides resources for many soil organisms.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that crop rotation ______.",
+          "a": [
+            "crop rotation"
+          ],
+          "why": "The passage states: Changing crops between seasons can disrupt certain pests and diseases.",
+          "ev": "Changing crops between seasons can disrupt certain pests and diseases."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of compaction?",
+          "a": 0,
+          "why": "The passage states: Compacted soil can limit root development and reduce water infiltration.",
+          "ev": "Compacted soil can limit root development and reduce water infiltration.",
+          "opts": [
+            "compaction",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about cover crops?",
+          "a": [
+            "cover crops"
+          ],
+          "why": "The passage states: Cover crops reduce the period when soil is left exposed.",
+          "ev": "Cover crops reduce the period when soil is left exposed."
+        }
+      ]
+    },
+    {
+      "id": "ac-v10-p3",
+      "pathway": "Academic",
+      "level": 4,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Digital Archives and Historical Research",
+      "intro": "An academic-style overview of information science, examining evidence and practical implications.",
+      "paras": [
+        "Digitised collections allow researchers to consult materials without visiting the archive. Poor image quality can make handwritten or faded documents difficult to read.",
+        "Descriptive metadata helps users search and organise digital collections. Automatic text recognition can misread unusual fonts or damaged pages.",
+        "Copyright rules may limit what an archive can publish online. Long-term digital preservation requires multiple safeguards, not just one copy.",
+        "The way materials are described can influence which items a search retrieves. Researchers should check automated transcriptions against original sources when possible."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about remote access?",
+          "a": 0,
+          "why": "The passage states: Digitised collections allow researchers to consult materials without visiting the archive.",
+          "ev": "Digitised collections allow researchers to consult materials without visiting the archive.",
+          "opts": [
+            "remote access",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that image quality is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Poor image quality can make handwritten or faded documents difficult to read.",
+          "ev": "Poor image quality can make handwritten or faded documents difficult to read.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that metadata ______.",
+          "a": [
+            "metadata"
+          ],
+          "why": "The passage states: Descriptive metadata helps users search and organise digital collections.",
+          "ev": "Descriptive metadata helps users search and organise digital collections."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with recognition errors?",
+          "a": 0,
+          "why": "The passage states: Automatic text recognition can misread unusual fonts or damaged pages.",
+          "ev": "Automatic text recognition can misread unusual fonts or damaged pages.",
+          "opts": [
+            "recognition errors",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that copyright should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Copyright rules may limit what an archive can publish online.",
+          "ev": "Copyright rules may limit what an archive can publish online.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about preservation?",
+          "a": [
+            "preservation"
+          ],
+          "why": "The passage states: Long-term digital preservation requires multiple safeguards, not just one copy.",
+          "ev": "Long-term digital preservation requires multiple safeguards, not just one copy."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'cataloguing': ______.",
+          "a": [
+            "cataloguing"
+          ],
+          "why": "The passage states: The way materials are described can influence which items a search retrieves.",
+          "ev": "The way materials are described can influence which items a search retrieves."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing original sources.",
+          "a": 0,
+          "why": "The passage states: Researchers should check automated transcriptions against original sources when possible.",
+          "ev": "Researchers should check automated transcriptions against original sources when possible.",
+          "opts": [
+            "Evidence concerning original sources",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about remote access?",
+          "a": 0,
+          "why": "The passage states: Digitised collections allow researchers to consult materials without visiting the archive.",
+          "ev": "Digitised collections allow researchers to consult materials without visiting the archive.",
+          "opts": [
+            "remote access",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Poor image quality can make handwritten or faded documents difficult to read.",
+          "a": 0,
+          "why": "The passage states: Poor image quality can make handwritten or faded documents difficult to read.",
+          "ev": "Poor image quality can make handwritten or faded documents difficult to read.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that metadata ______.",
+          "a": [
+            "metadata"
+          ],
+          "why": "The passage states: Descriptive metadata helps users search and organise digital collections.",
+          "ev": "Descriptive metadata helps users search and organise digital collections."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of recognition errors?",
+          "a": 0,
+          "why": "The passage states: Automatic text recognition can misread unusual fonts or damaged pages.",
+          "ev": "Automatic text recognition can misread unusual fonts or damaged pages.",
+          "opts": [
+            "recognition errors",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about copyright?",
+          "a": [
+            "copyright"
+          ],
+          "why": "The passage states: Copyright rules may limit what an archive can publish online.",
+          "ev": "Copyright rules may limit what an archive can publish online."
+        },
+        {
+          "type": "Flow-chart completion",
+          "q": "Complete the flow-chart: consider preservation → identify the point described: ______.",
+          "a": [
+            "preservation"
+          ],
+          "why": "The passage states: Long-term digital preservation requires multiple safeguards, not just one copy.",
+          "ev": "Long-term digital preservation requires multiple safeguards, not just one copy."
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Academic Full-Length Reading Practice Test 10",
+      "pathway": "Academic",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "ac-v10-p1",
+        "ac-v10-p2",
+        "ac-v10-p3"
+      ]
+    }
+  ]
+}

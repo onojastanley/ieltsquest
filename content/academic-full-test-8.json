@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "description": "Original Academic IELTS Reading practice test 8. Not an official IELTS paper.",
+  "passages": [
+    {
+      "id": "ac-v08-p1",
+      "pathway": "Academic",
+      "level": 4,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "The Development of Electric Batteries",
+      "intro": "An academic-style overview of technology, examining evidence and practical implications.",
+      "paras": [
+        "Battery performance is influenced by the materials and chemical reactions involved. Higher energy density can store more energy in a given mass or volume.",
+        "Fast charging requires careful control of heat. Repeated use and ageing can reduce a battery's capacity.",
+        "Some recycling processes recover valuable metals from used batteries. Battery supply chains can raise questions about mining and working conditions.",
+        "Batteries no longer suited to one application may be useful in a less demanding role. Safety testing investigates how batteries behave under faults and unusual conditions."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about chemistry?",
+          "a": 0,
+          "why": "The passage states: Battery performance is influenced by the materials and chemical reactions involved.",
+          "ev": "Battery performance is influenced by the materials and chemical reactions involved.",
+          "opts": [
+            "chemistry",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that energy density is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Higher energy density can store more energy in a given mass or volume.",
+          "ev": "Higher energy density can store more energy in a given mass or volume.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that fast charging ______.",
+          "a": [
+            "fast charging"
+          ],
+          "why": "The passage states: Fast charging requires careful control of heat.",
+          "ev": "Fast charging requires careful control of heat."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with degradation?",
+          "a": 0,
+          "why": "The passage states: Repeated use and ageing can reduce a battery's capacity.",
+          "ev": "Repeated use and ageing can reduce a battery's capacity.",
+          "opts": [
+            "degradation",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that recycling should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Some recycling processes recover valuable metals from used batteries.",
+          "ev": "Some recycling processes recover valuable metals from used batteries.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about supply chains?",
+          "a": [
+            "supply chains"
+          ],
+          "why": "The passage states: Battery supply chains can raise questions about mining and working conditions.",
+          "ev": "Battery supply chains can raise questions about mining and working conditions."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'second-life uses': ______.",
+          "a": [
+            "second-life uses"
+          ],
+          "why": "The passage states: Batteries no longer suited to one application may be useful in a less demanding role.",
+          "ev": "Batteries no longer suited to one application may be useful in a less demanding role."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing safety testing.",
+          "a": 0,
+          "why": "The passage states: Safety testing investigates how batteries behave under faults and unusual conditions.",
+          "ev": "Safety testing investigates how batteries behave under faults and unusual conditions.",
+          "opts": [
+            "Evidence concerning safety testing",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about chemistry?",
+          "a": 0,
+          "why": "The passage states: Battery performance is influenced by the materials and chemical reactions involved.",
+          "ev": "Battery performance is influenced by the materials and chemical reactions involved.",
+          "opts": [
+            "chemistry",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Higher energy density can store more energy in a given mass or volume.",
+          "a": 0,
+          "why": "The passage states: Higher energy density can store more energy in a given mass or volume.",
+          "ev": "Higher energy density can store more energy in a given mass or volume.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that fast charging ______.",
+          "a": [
+            "fast charging"
+          ],
+          "why": "The passage states: Fast charging requires careful control of heat.",
+          "ev": "Fast charging requires careful control of heat."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of degradation?",
+          "a": 0,
+          "why": "The passage states: Repeated use and ageing can reduce a battery's capacity.",
+          "ev": "Repeated use and ageing can reduce a battery's capacity.",
+          "opts": [
+            "degradation",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about recycling?",
+          "a": [
+            "recycling"
+          ],
+          "why": "The passage states: Some recycling processes recover valuable metals from used batteries.",
+          "ev": "Some recycling processes recover valuable metals from used batteries."
+        }
+      ]
+    },
+    {
+      "id": "ac-v08-p2",
+      "pathway": "Academic",
+      "level": 4,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "The Value of Wetlands",
+      "intro": "An academic-style overview of ecology, examining evidence and practical implications.",
+      "paras": [
+        "Wetlands can temporarily hold water during heavy rainfall. Wetland plants can slow water and trap some sediment.",
+        "Wetlands provide habitat for many kinds of plants and animals. Drainage for agriculture and development has reduced wetland area in some places.",
+        "Wetland restoration depends heavily on water movement and seasonal patterns. The amount of carbon stored differs between wetland types.",
+        "Introduced species can change wetland communities and ecological processes. Researchers monitor restored wetlands over time to evaluate changes."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about floodwater?",
+          "a": 0,
+          "why": "The passage states: Wetlands can temporarily hold water during heavy rainfall.",
+          "ev": "Wetlands can temporarily hold water during heavy rainfall.",
+          "opts": [
+            "floodwater",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that sediment is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: Wetland plants can slow water and trap some sediment.",
+          "ev": "Wetland plants can slow water and trap some sediment.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that habitat ______.",
+          "a": [
+            "habitat"
+          ],
+          "why": "The passage states: Wetlands provide habitat for many kinds of plants and animals.",
+          "ev": "Wetlands provide habitat for many kinds of plants and animals."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with drainage?",
+          "a": 0,
+          "why": "The passage states: Drainage for agriculture and development has reduced wetland area in some places.",
+          "ev": "Drainage for agriculture and development has reduced wetland area in some places.",
+          "opts": [
+            "drainage",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that hydrology should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Wetland restoration depends heavily on water movement and seasonal patterns.",
+          "ev": "Wetland restoration depends heavily on water movement and seasonal patterns.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about carbon storage?",
+          "a": [
+            "carbon storage"
+          ],
+          "why": "The passage states: The amount of carbon stored differs between wetland types.",
+          "ev": "The amount of carbon stored differs between wetland types."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'invasive species': ______.",
+          "a": [
+            "invasive species"
+          ],
+          "why": "The passage states: Introduced species can change wetland communities and ecological processes.",
+          "ev": "Introduced species can change wetland communities and ecological processes."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing monitoring.",
+          "a": 0,
+          "why": "The passage states: Researchers monitor restored wetlands over time to evaluate changes.",
+          "ev": "Researchers monitor restored wetlands over time to evaluate changes.",
+          "opts": [
+            "Evidence concerning monitoring",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about floodwater?",
+          "a": 0,
+          "why": "The passage states: Wetlands can temporarily hold water during heavy rainfall.",
+          "ev": "Wetlands can temporarily hold water during heavy rainfall.",
+          "opts": [
+            "floodwater",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Wetland plants can slow water and trap some sediment.",
+          "a": 0,
+          "why": "The passage states: Wetland plants can slow water and trap some sediment.",
+          "ev": "Wetland plants can slow water and trap some sediment.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that habitat ______.",
+          "a": [
+            "habitat"
+          ],
+          "why": "The passage states: Wetlands provide habitat for many kinds of plants and animals.",
+          "ev": "Wetlands provide habitat for many kinds of plants and animals."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of drainage?",
+          "a": 0,
+          "why": "The passage states: Drainage for agriculture and development has reduced wetland area in some places.",
+          "ev": "Drainage for agriculture and development has reduced wetland area in some places.",
+          "opts": [
+            "drainage",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about hydrology?",
+          "a": [
+            "hydrology"
+          ],
+          "why": "The passage states: Wetland restoration depends heavily on water movement and seasonal patterns.",
+          "ev": "Wetland restoration depends heavily on water movement and seasonal patterns."
+        }
+      ]
+    },
+    {
+      "id": "ac-v08-p3",
+      "pathway": "Academic",
+      "level": 4,
+      "zone": "Academic Reading Mission",
+      "icon": "📚",
+      "title": "Music, Memory and Learning",
+      "intro": "An academic-style overview of psychology, examining evidence and practical implications.",
+      "paras": [
+        "A familiar song can bring back memories of personal experiences. The effects of background music vary across listeners and tasks.",
+        "Words in music can compete for attention during reading or writing. A steady rhythm may help people coordinate repetitive actions.",
+        "Researchers need comparison groups to distinguish an effect from other influences. Familiar music may attract attention differently from unfamiliar music.",
+        "Music may help or hinder performance depending on what a task requires. Findings from one setting should not automatically be applied to every learner."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about personal memories?",
+          "a": 0,
+          "why": "The passage states: A familiar song can bring back memories of personal experiences.",
+          "ev": "A familiar song can bring back memories of personal experiences.",
+          "opts": [
+            "personal memories",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage states that individual differences is the only factor involved.",
+          "a": 1,
+          "why": "The passage states: The effects of background music vary across listeners and tasks.",
+          "ev": "The effects of background music vary across listeners and tasks.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that lyrics ______.",
+          "a": [
+            "lyrics"
+          ],
+          "why": "The passage states: Words in music can compete for attention during reading or writing.",
+          "ev": "Words in music can compete for attention during reading or writing."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which detail is associated with rhythm?",
+          "a": 0,
+          "why": "The passage states: A steady rhythm may help people coordinate repetitive actions.",
+          "ev": "A steady rhythm may help people coordinate repetitive actions.",
+          "opts": [
+            "rhythm",
+            "a seasonal discount",
+            "an unrelated historical event",
+            "a compulsory fee"
+          ]
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that comparison groups should be ignored completely.",
+          "a": 1,
+          "why": "The passage states: Researchers need comparison groups to distinguish an effect from other influences.",
+          "ev": "Researchers need comparison groups to distinguish an effect from other influences.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about familiarity?",
+          "a": [
+            "familiarity"
+          ],
+          "why": "The passage states: Familiar music may attract attention differently from unfamiliar music.",
+          "ev": "Familiar music may attract attention differently from unfamiliar music."
+        },
+        {
+          "type": "Table completion",
+          "q": "Complete the table entry for 'task type': ______.",
+          "a": [
+            "task type"
+          ],
+          "why": "The passage states: Music may help or hinder performance depending on what a task requires.",
+          "ev": "Music may help or hinder performance depending on what a task requires."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for the paragraph discussing generalisations.",
+          "a": 0,
+          "why": "The passage states: Findings from one setting should not automatically be applied to every learner.",
+          "ev": "Findings from one setting should not automatically be applied to every learner.",
+          "opts": [
+            "Evidence concerning generalisations",
+            "An unrelated account of past events",
+            "A list of financial penalties",
+            "A description of another subject"
+          ]
+        },
+        {
+          "type": "Multiple choice",
+          "q": "According to the passage, what is stated about personal memories?",
+          "a": 0,
+          "why": "The passage states: A familiar song can bring back memories of personal experiences.",
+          "ev": "A familiar song can bring back memories of personal experiences.",
+          "opts": [
+            "personal memories",
+            "a factor unrelated to the topic",
+            "a rule that applies in every country",
+            "a result that researchers have rejected"
+          ]
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The effects of background music vary across listeners and tasks.",
+          "a": 0,
+          "why": "The passage states: The effects of background music vary across listeners and tasks.",
+          "ev": "The effects of background music vary across listeners and tasks.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Complete the sentence: The passage explains that lyrics ______.",
+          "a": [
+            "lyrics"
+          ],
+          "why": "The passage states: Words in music can compete for attention during reading or writing.",
+          "ev": "Words in music can compete for attention during reading or writing."
+        },
+        {
+          "type": "Matching features",
+          "q": "Which feature matches the passage's discussion of rhythm?",
+          "a": 0,
+          "why": "The passage states: A steady rhythm may help people coordinate repetitive actions.",
+          "ev": "A steady rhythm may help people coordinate repetitive actions.",
+          "opts": [
+            "rhythm",
+            "a process that always fails",
+            "an issue without practical consequences",
+            "a rule applying only to ancient objects"
+          ]
+        },
+        {
+          "type": "Short answer",
+          "q": "What does the passage state about comparison groups?",
+          "a": [
+            "comparison groups"
+          ],
+          "why": "The passage states: Researchers need comparison groups to distinguish an effect from other influences.",
+          "ev": "Researchers need comparison groups to distinguish an effect from other influences."
+        },
+        {
+          "type": "Flow-chart completion",
+          "q": "Complete the flow-chart: consider familiarity → identify the point described: ______.",
+          "a": [
+            "familiarity"
+          ],
+          "why": "The passage states: Familiar music may attract attention differently from unfamiliar music.",
+          "ev": "Familiar music may attract attention differently from unfamiliar music."
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Academic Full-Length Reading Practice Test 8",
+      "pathway": "Academic",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "ac-v08-p1",
+        "ac-v08-p2",
+        "ac-v08-p3"
+      ]
+    }
+  ]
+}
