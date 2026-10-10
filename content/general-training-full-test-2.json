@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 1,
+  "description": "Original IELTS-style General Training Reading practice content for IELTS Quest. Not an official IELTS test. Each section contains 700–900 words and the full test contains 40 questions.",
+  "passages": [
+    {
+      "id": "gt-new-practice-02-01",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "Everyday English Trail",
+      "icon": "📘",
+      "title": "Community Library Services",
+      "intro": "Information for residents using a modern neighbourhood library",
+      "paras": [
+        "The Riverside Community Library is more than a place to borrow books. It provides study tables, public computers, language-learning materials, children's activities and advice on finding reliable information. The main building is open Monday to Thursday from 9 a.m. to 8 p.m., Friday from 9 a.m. to 6 p.m., and Saturday from 10 a.m. to 4 p.m. It is closed on Sundays and public holidays. During the summer, opening hours may change for one week while staff complete stock checks; notices are displayed at the entrance and on the library website at least ten days beforehand. The return slot beside the main door remains available outside opening hours, although items returned after the building closes are recorded on the next working day.",
+        "Residents can join free of charge by presenting proof of their current address and one form of identification. Children under twelve must have a parent or guardian complete the application. People who are temporarily staying in the area may receive a three-month visitor card, which allows them to borrow up to three items at a time. Standard adult members may borrow ten books, two audiobooks and three DVDs. Most items can be kept for three weeks, while high-demand titles have a one-week loan period. Renewals are possible online or by telephone unless another member has reserved the item. A small overdue charge applies only to certain equipment; books do not attract daily fines, but repeated failure to return borrowed items may temporarily suspend borrowing privileges. The library aims to make its services accessible to people with different schedules and levels of digital confidence. Staff can demonstrate the catalogue, explain how to renew an item and help a new member find materials in an unfamiliar subject area. They cannot complete every online transaction on behalf of a visitor, and they may ask the visitor to enter a personal PIN privately. Anyone who needs additional assistance is encouraged to mention this when arriving, rather than waiting until a booked computer session is nearly finished. During busy periods, staff may arrange a longer appointment for tasks that require several steps. Residents should consult the latest official notice before relying on a service detail, as temporary changes may be introduced for maintenance, staffing or seasonal demand. Staff can explain the current procedure and direct people to the correct form or online page.",
+        "The library's digital services include downloadable books, newspapers and language courses. Members need their library card number and a personal PIN to sign in. The online catalogue shows whether an item is available, and users can reserve books held at another branch. A text message or email is sent when a reservation is ready; the item must be collected within five opening days. Public computers can be booked for one-hour sessions, with one extension permitted if no one is waiting. Printing is charged by page, and staff can explain how to send a document from a phone or USB drive. The library does not store personal files after a session ends, so users should save work to their own device or cloud account before logging out.",
+        "Several weekly activities are offered without charge, but some require advance registration because places are limited. The Tuesday conversation circle is intended for adults who want to practise everyday English in a relaxed setting. On Wednesday afternoons, volunteer tutors help school students with homework, while Saturday mornings are reserved for storytelling and craft activities for younger children. A monthly digital-skills workshop covers tasks such as using online forms, recognising suspicious messages and managing passwords. Participants should bring their own phone or laptop if they want help with a personal device, although a small number of library tablets can be borrowed during the session. Residents who need a quiet room for a group project may request the meeting room up to four weeks in advance. Members are responsible for keeping their contact details up to date so that reservation notices and service announcements reach them. A lost card should be reported as soon as possible; staff can block it and issue a replacement after checking the member's identity. The library does not ask members to disclose their account PIN by email. Messages requesting payment details or passwords should be treated cautiously and checked directly with the library using its published contact information. These precautions help protect accounts while allowing residents to make full use of the library's in-person and digital services."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What happens to items returned after the library closes?",
+          "opts": [
+            "They are recorded on the next working day",
+            "They are charged an additional daily fine",
+            "They are immediately placed on hold",
+            "They must be returned to the main office"
+          ],
+          "a": 0,
+          "why": "The return slot remains available, but recording occurs on the next working day.",
+          "ev": "“items returned after the building closes are recorded on the next working day.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The library is open every Sunday throughout the year.",
+          "a": "FALSE",
+          "why": "The stated schedule says it is closed on Sundays.",
+          "ev": "“It is closed on Sundays and public holidays.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Children under twelve need an adult to complete their membership application.",
+          "a": "TRUE",
+          "why": "This requirement is stated in paragraph B.",
+          "ev": "“Children under twelve must have a parent or guardian complete the application.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Members may borrow exactly four magazines at a time.",
+          "a": "NOT GIVEN",
+          "why": "The passage gives limits for books, audiobooks and DVDs, but not magazines.",
+          "ev": "No magazine borrowing limit is stated."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph explains how to book a public computer?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "a": 2,
+          "why": "Paragraph C describes one-hour computer bookings and extensions.",
+          "ev": "“Public computers can be booked for one-hour sessions…”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "A visitor card for temporary residents lasts for ______ months.",
+          "a": [
+            "three"
+          ],
+          "why": "The visitor card duration is explicitly stated.",
+          "ev": "“may receive a three-month visitor card.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "When can a member renew a borrowed item?",
+          "opts": [
+            "Only in person on Sunday",
+            "Online or by telephone unless another member has reserved it",
+            "Only after paying a daily fine",
+            "Whenever the item is overdue"
+          ],
+          "a": 1,
+          "why": "The renewal condition is described in paragraph B.",
+          "ev": "“Renewals are possible online or by telephone unless another member has reserved the item.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The library guarantees that every weekly activity will have a place for anyone who arrives.",
+          "a": "NO",
+          "why": "Some activities require registration because places are limited.",
+          "ev": "“some require advance registration because places are limited.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "How many opening days does a member have to collect a reserved item? (ONE WORD OR A NUMBER)",
+          "a": [
+            "five",
+            "5"
+          ],
+          "why": "The collection period is given in paragraph C.",
+          "ev": "“the item must be collected within five opening days.”"
+        },
+        {
+          "type": "Summary completion",
+          "q": "Members sign in to digital services with their card number and a personal ______.",
+          "a": [
+            "PIN"
+          ],
+          "why": "The passage names the two login details.",
+          "ev": "“Members need their library card number and a personal PIN to sign in.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which activity is designed for adults practising everyday English?",
+          "opts": [
+            "Tuesday conversation circle",
+            "Wednesday homework support",
+            "Saturday storytelling",
+            "Monthly digital-skills workshop"
+          ],
+          "a": 0,
+          "why": "The conversation circle is specifically intended for adult English practice.",
+          "ev": "“The Tuesday conversation circle is intended for adults who want to practise everyday English…”"
+        },
+        {
+          "type": "Table completion",
+          "q": "The meeting room may be requested up to four weeks ______.",
+          "a": [
+            "in advance"
+          ],
+          "why": "The booking period is stated in paragraph D.",
+          "ev": "“may request the meeting room up to four weeks in advance.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why should users save their work before logging out of a public computer?",
+          "opts": [
+            "The library deletes personal files after the session",
+            "The computer shuts down for a week",
+            "Printing is available only after logging out",
+            "Staff review all documents"
+          ],
+          "a": 0,
+          "why": "The library does not retain personal files after a session ends.",
+          "ev": "“The library does not store personal files after a session ends…”"
+        }
+      ],
+      "sectionNumber": 1,
+      "sectionLabel": "Section 1"
+    },
+    {
+      "id": "gt-new-practice-02-02",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "Everyday English Trail",
+      "icon": "📘",
+      "title": "Safe Working Practices in a Distribution Centre",
+      "intro": "Induction guidance for new warehouse employees",
+      "paras": [
+        "All new employees at Northgate Distribution Centre must complete a safety induction before beginning operational duties. The centre handles packaged food, household goods and small electrical products, and vehicles move through several shared areas. Staff must wear high-visibility clothing and protective footwear in the loading zone, even when they are only crossing it briefly. Visitors must remain with an authorised employee and use the marked pedestrian routes. Personal headphones are not permitted in active work areas because they can prevent workers from hearing reversing alarms or verbal warnings. Phones may be checked only in designated rest areas, unless a supervisor has authorised their use for a specific work task.",
+        "Forklift trucks have priority at marked crossings, but operators must slow down and sound the horn where visibility is restricted. Pedestrians should stop at the painted line, make eye contact with the driver and cross only when the vehicle has stopped or the route is clearly safe. Loads must never be lifted over people, and employees must not walk beneath raised forks. If a pallet appears unstable, staff should keep clear and inform a trained operator rather than attempting to straighten it by hand. Damaged pallets are placed in the marked quarantine area so they cannot be returned accidentally to the storage system. Any collision, near miss or damaged racking must be reported before the end of the shift, even if no one appears to be injured. Training is repeated when a worker changes role or begins using equipment they have not previously operated. A person who has watched a forklift demonstration is not automatically authorised to drive one; formal approval and the required competency checks must be completed first. Supervisors should explain temporary changes to routes before work begins, particularly when a delivery bay is closed or a storage area is being reorganised. Temporary barriers and signs must remain in place until the hazard has been removed. Workers should not move a barrier simply because it slows down their task or appears unnecessary. Residents should consult the latest official notice before relying on a service detail, as temporary changes may be introduced for maintenance, staffing or seasonal demand. Staff can explain the current procedure and direct people to the correct form or online page.",
+        "Manual handling procedures are designed to reduce strain rather than to encourage employees to lift more than they can safely manage. Workers should assess the size, weight and shape of an item before moving it. If the load blocks their view, has no secure handhold or feels too heavy, they must use a trolley or ask for assistance. Twisting while carrying should be avoided; instead, workers should turn their feet and move their whole body. Team lifting is appropriate only when everyone understands the plan and one person coordinates the movement. Repetitive tasks should be varied where possible, and discomfort should be reported early. Employees are not expected to continue a task that causes sharp pain or makes them feel unsafe. Keeping copies of important notices, receipts and confirmation messages can prevent avoidable misunderstandings. When details are unclear, asking the organisation directly is safer than relying on an informal message shared by another person.",
+        "Emergency exits, fire equipment and first-aid points must remain unobstructed. If an alarm sounds, workers should stop machinery only if it is safe to do so, leave by the nearest signed route and assemble at the numbered point outside the building. They must not return for personal belongings until the safety coordinator gives permission. Chemical spills should be handled only by trained staff using the correct protective equipment; other employees should keep away and alert a supervisor. The incident reporting form is available from the shift office and can be completed on paper or on the staff portal. Supervisors review reports each week to identify recurring problems, but urgent hazards must be communicated immediately rather than left for the weekly review. Fatigue can also affect safe decisions. Employees should take scheduled breaks, drink water and tell a supervisor if tiredness or medication makes a task unsafe. Near the end of a shift, workers must follow the same lifting and traffic procedures as at the beginning; rushing to finish a target is not a reason to ignore a control. Safety concerns can be raised without waiting for a formal meeting. The purpose of reporting is to identify and correct hazards, not to discourage workers from speaking up. Clear communication between shifts helps ensure that an unresolved problem is not passed unknowingly to the next team."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What must new employees do before beginning operational duties?",
+          "opts": [
+            "Complete a safety induction",
+            "Obtain a forklift licence",
+            "Work one full shift without a supervisor",
+            "Buy their own high-visibility clothing"
+          ],
+          "a": 0,
+          "why": "The first paragraph makes induction mandatory.",
+          "ev": "“All new employees… must complete a safety induction before beginning operational duties.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "High-visibility clothing is required in the loading zone even for a brief crossing.",
+          "a": "TRUE",
+          "why": "The passage states that the rule applies even to brief crossings.",
+          "ev": "“even when they are only crossing it briefly.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Forklift trucks must always stop for pedestrians at every crossing.",
+          "a": "FALSE",
+          "why": "The text says forklifts have priority, while operators must slow and sound the horn at restricted-visibility crossings.",
+          "ev": "“Forklift trucks have priority at marked crossings…”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Northgate employs 280 people during the night shift.",
+          "a": "NOT GIVEN",
+          "why": "No employee headcount is provided.",
+          "ev": "The passage contains no staffing figures."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph describes how to report damaged racking or a near miss?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "a": 1,
+          "why": "Paragraph B covers vehicle movements and incident reporting.",
+          "ev": "“Any collision, near miss or damaged racking must be reported before the end of the shift…”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Damaged pallets must be placed in the marked ______ area.",
+          "a": [
+            "quarantine"
+          ],
+          "why": "The passage specifies the designated area.",
+          "ev": "“Damaged pallets are placed in the marked quarantine area…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What should a worker do if a load blocks their view?",
+          "opts": [
+            "Carry it quickly to save time",
+            "Ask an untrained colleague to pull it",
+            "Use a trolley or ask for assistance",
+            "Twist sideways to see around it"
+          ],
+          "a": 2,
+          "why": "The manual-handling guidance explicitly recommends a trolley or assistance.",
+          "ev": "“If the load blocks their view… they must use a trolley or ask for assistance.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "Workers should keep doing a task even if it causes sharp pain.",
+          "a": "NO",
+          "why": "The passage says workers are not expected to continue an unsafe or painful task.",
+          "ev": "“Employees are not expected to continue a task that causes sharp pain…”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Who coordinates a team lift? (ONE WORD)",
+          "a": [
+            "person"
+          ],
+          "why": "One person is specified to coordinate the movement.",
+          "ev": "“one person coordinates the movement.”"
+        },
+        {
+          "type": "Summary completion",
+          "q": "During an evacuation, staff must go to the numbered ______ point.",
+          "a": [
+            "assembly"
+          ],
+          "why": "The assembly point is part of the evacuation procedure.",
+          "ev": "“leave by the nearest signed route and assemble at the numbered point outside the building.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Who should handle a chemical spill?",
+          "opts": [
+            "Any available employee",
+            "Only trained staff using the correct protective equipment",
+            "Visitors accompanied by staff",
+            "The nearest forklift operator"
+          ],
+          "a": 1,
+          "why": "The procedure restricts spill handling to trained staff.",
+          "ev": "“Chemical spills should be handled only by trained staff using the correct protective equipment…”"
+        },
+        {
+          "type": "Table completion",
+          "q": "Urgent hazards must be communicated ______ rather than left for weekly review.",
+          "a": [
+            "immediately"
+          ],
+          "why": "The final sentence contrasts immediate reporting with weekly review.",
+          "ev": "“urgent hazards must be communicated immediately…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why are incident reports reviewed each week?",
+          "opts": [
+            "To identify recurring problems",
+            "To determine staff holiday dates",
+            "To replace all induction training",
+            "To calculate the cost of uniforms"
+          ],
+          "a": 0,
+          "why": "The passage explicitly gives this purpose.",
+          "ev": "“Supervisors review reports each week to identify recurring problems…”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Employees can use personal headphones in active work areas if the volume is low.",
+          "a": "FALSE",
+          "why": "Personal headphones are not permitted in active work areas.",
+          "ev": "“Personal headphones are not permitted in active work areas…”"
+        }
+      ],
+      "sectionNumber": 2,
+      "sectionLabel": "Section 2"
+    },
+    {
+      "id": "gt-new-practice-02-03",
+      "pathway": "General Training",
+      "level": 2,
+      "zone": "Everyday English Trail",
+      "icon": "📘",
+      "title": "Renting a Home and Getting Around",
+      "intro": "Practical information for people moving into the Lakeside district",
+      "paras": [
+        "The Lakeside Housing Advice Office offers a free appointment service for people searching for a rental home. Advisers can explain common lease terms, help applicants prepare documents and direct them to recognised tenant-support organisations. They do not act as estate agents and cannot guarantee that a landlord will accept an application. Residents should be cautious of anyone demanding a deposit before a viewing or asking for payment by an unusual transfer method. A legitimate landlord or property manager should provide a written agreement that identifies the property, rent, deposit, payment dates and responsibilities for utilities. Before signing, applicants should read the agreement carefully and ask for clarification of any clause they do not understand.",
+        "Most private rentals require a security deposit, which is separate from the first month's rent. The deposit should be paid using a traceable method, and the tenant should receive a receipt. At move-in, both parties are encouraged to complete a condition report and take dated photographs of existing damage. This record can help resolve disagreements when the tenancy ends. Tenants should keep copies of messages about repairs and report urgent problems promptly. The landlord is generally responsible for maintaining the property in a safe condition, while tenants are expected to keep it reasonably clean and avoid damage. Exact legal obligations depend on the applicable tenancy rules, so the advice office can refer residents to current official guidance when a dispute arises. Applicants should also check what is included in the advertised rent. Some properties include water or heating, while others require tenants to arrange and pay for utilities separately. Parking, storage and shared laundry facilities may carry additional charges. Advertisements should be compared on the total expected monthly cost, not only the headline rent. If a property manager promises that a repair or improvement will be completed before move-in, the applicant should ask for the commitment to be recorded in writing. Written records reduce the chance that the parties remember a conversation differently once the tenancy has begun. Residents should consult the latest official notice before relying on a service detail, as temporary changes may be introduced for maintenance, staffing or seasonal demand. Staff can explain the current procedure and direct people to the correct form or online page.",
+        "Lakeside's public transport network includes two frequent bus routes and a light-rail line connecting the district with the city centre. Route 6 operates every fifteen minutes on weekdays until 10 p.m.; after that, buses run every thirty minutes. Route 12 serves the industrial area but has a reduced schedule on weekends. The light rail runs from 5:30 a.m. until shortly after midnight, with later services on Friday and Saturday. Timetables may change during roadworks, and passengers should check service alerts before travelling to an appointment. A rechargeable travel card can be purchased at the station or selected convenience stores. Contactless bank-card payment is also accepted on buses and trains, but discounted monthly passes must be loaded onto a registered travel card. Keeping copies of important notices, receipts and confirmation messages can prevent avoidable misunderstandings. When details are unclear, asking the organisation directly is safer than relying on an informal message shared by another person.",
+        "New residents can attend a monthly neighbourhood orientation session held at the community hall on the first Thursday evening. The session explains recycling collection, local health services, library membership and how to report problems with street lighting or damaged pavements. Registration is free and can be completed online or by telephone. Participants who need interpretation should request it at least five working days in advance; availability depends on the language and the number of requests. The housing advice office also runs a short workshop on understanding rental advertisements and spotting misleading fees. These services are intended to help residents make informed decisions, but they do not replace legal advice where a formal dispute or court process is involved. Transport needs vary by household. People working early or late shifts may need to check the first and last services, while families may prioritise step-free access or routes near schools and childcare. A journey planner can estimate travel time, but disruptions and seasonal weather can affect the actual trip. Residents who depend on a particular connection should allow extra time for important appointments and check alerts before leaving home. The orientation session can explain where to find official transport updates and how to contact the relevant service if a stop or station is difficult to access."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What does the Housing Advice Office provide?",
+          "opts": [
+            "Free advice appointments and referrals",
+            "Guaranteed rental properties",
+            "A service acting as an estate agent",
+            "Loans for rental deposits"
+          ],
+          "a": 0,
+          "why": "The office offers guidance and referrals but does not act as an agent or guarantee acceptance.",
+          "ev": "“It provides a free appointment service… They do not act as estate agents and cannot guarantee…”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Applicants should be cautious if asked to pay a deposit before viewing a property.",
+          "a": "TRUE",
+          "why": "The passage explicitly warns about this situation.",
+          "ev": "“Residents should be cautious of anyone demanding a deposit before a viewing…”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The security deposit and first month's rent are the same payment.",
+          "a": "FALSE",
+          "why": "The passage says the deposit is separate from the first month's rent.",
+          "ev": "“A security deposit… is separate from the first month's rent.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The average monthly rent in Lakeside is $1,450.",
+          "a": "NOT GIVEN",
+          "why": "No average rent figure is included.",
+          "ev": "The passage gives no rental price statistics."
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph describes bus and light-rail operating times?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "a": 2,
+          "why": "Paragraph C outlines routes, frequency and operating hours.",
+          "ev": "“Route 6 operates every fifteen minutes on weekdays until 10 p.m…”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "A condition report and dated photographs can help resolve disagreements when the tenancy ______.",
+          "a": [
+            "ends"
+          ],
+          "why": "The text says these records are useful at the end of a tenancy.",
+          "ev": "“This record can help resolve disagreements when the tenancy ends.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What should a tenant do before signing a rental agreement?",
+          "opts": [
+            "Read it carefully and ask about unclear clauses",
+            "Pay through an unusual transfer method",
+            "Avoid receiving a written copy",
+            "Assume every utility is included"
+          ],
+          "a": 0,
+          "why": "Paragraph A advises careful reading and clarification.",
+          "ev": "“Before signing, applicants should read the agreement carefully and ask for clarification…”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "A discounted monthly transport pass can be loaded onto any bank card.",
+          "a": "NO",
+          "why": "Discounted monthly passes must be loaded onto a registered travel card.",
+          "ev": "“discounted monthly passes must be loaded onto a registered travel card.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "On which day of the month is the neighbourhood orientation session held? (ONE WORD)",
+          "a": [
+            "Thursday"
+          ],
+          "why": "The schedule says the first Thursday evening of each month.",
+          "ev": "“held at the community hall on the first Thursday evening.”"
+        },
+        {
+          "type": "Summary completion",
+          "q": "Interpretation should be requested at least five working days ______.",
+          "a": [
+            "in advance"
+          ],
+          "why": "The passage gives the advance notice required for interpretation.",
+          "ev": "“should request it at least five working days in advance.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which transport option runs until shortly after midnight?",
+          "opts": [
+            "Route 6 bus",
+            "Route 12 bus",
+            "Light rail",
+            "Community shuttle"
+          ],
+          "a": 2,
+          "why": "The light-rail operating time is stated in paragraph C.",
+          "ev": "“The light rail runs from 5:30 a.m. until shortly after midnight…”"
+        },
+        {
+          "type": "Table completion",
+          "q": "Applicants should use a ______ payment method for the deposit.",
+          "a": [
+            "traceable"
+          ],
+          "why": "A traceable method provides a record of payment.",
+          "ev": "“The deposit should be paid using a traceable method…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What is the purpose of the rental-advertisement workshop?",
+          "opts": [
+            "To help residents understand adverts and identify misleading fees",
+            "To guarantee a court decision",
+            "To replace tenancy legislation",
+            "To arrange transport discounts"
+          ],
+          "a": 0,
+          "why": "The final paragraph describes the workshop's specific purpose.",
+          "ev": "“understanding rental advertisements and spotting misleading fees.”"
+        }
+      ],
+      "sectionNumber": 3,
+      "sectionLabel": "Section 3"
+    }
+  ],
+  "tests": [
+    {
+      "title": "General Training Full-Length Reading Practice Test 2",
+      "pathway": "General Training",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "gt-new-practice-02-01",
+        "gt-new-practice-02-02",
+        "gt-new-practice-02-03"
+      ]
+    }
+  ]
+}

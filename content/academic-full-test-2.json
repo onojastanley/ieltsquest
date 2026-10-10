@@ -1,0 +1,477 @@
+{
+  "schemaVersion": 1,
+  "description": "Original IELTS-style Academic Reading practice content for IELTS Quest. Not an official IELTS test. Each passage contains 700–900 words and the full test contains 40 questions.",
+  "passages": [
+    {
+      "id": "academic-new-practice-02-01",
+      "pathway": "Academic",
+      "level": 2,
+      "zone": "IELTS Reading Arena",
+      "icon": "📘",
+      "title": "The Hidden Costs of Artificial Light",
+      "intro": "How researchers are rethinking illumination in towns and cities",
+      "paras": [
+        "For much of human history, darkness was an ordinary feature of the environment. Fires, candles and oil lamps extended activity after sunset, but their reach was limited. Electric lighting changed that relationship dramatically. Streets, factories, homes and transport networks could remain active throughout the night, bringing clear benefits for safety, commerce and convenience. Yet the spread of illumination has also altered the conditions experienced by wildlife and people. In many urban areas, the night sky is now bright enough to obscure stars, while light spills from buildings into parks, rivers and residential streets. Researchers increasingly describe artificial light at night as an environmental pressure rather than simply a sign of progress. Its effects vary according to brightness, colour, timing and direction, which makes the issue more complicated than a straightforward choice between lighting and darkness.",
+        "One important consequence concerns animals whose behaviour is organised around natural cycles of light and dark. Many insects navigate using distant sources of light, and bright lamps can disrupt that orientation. Some circle lights until they become exhausted or are caught by predators; others may be drawn away from feeding or breeding sites. The effects can travel through food webs. If fewer insects reach a pond or woodland edge, animals that feed on them may have less food available. Migratory birds can also become disoriented by illuminated buildings, particularly in poor weather when cloud cover makes celestial cues less visible. In coastal areas, newly hatched turtles may move towards artificial lighting rather than towards the brighter horizon over the sea. These examples do not mean that every lamp produces the same harm. They show instead that a lighting scheme designed for human use can have unintended consequences when it intersects with the sensory systems of other species. Lighting policy is also influenced by the way people judge brightness. A lamp that appears efficient to an engineer may still create uncomfortable glare if it is positioned in the line of sight or contrasts sharply with a dark background. Conversely, a well-shielded source can make a route legible without flooding neighbouring gardens with light. These distinctions are important when councils compare products, because wattage alone does not describe how light reaches a person or a habitat. The relevant question is not simply how much light a fitting produces, but whether that light reaches the place where it is needed.",
+        "The human consequences are less easily summarised. Light entering a bedroom may interrupt sleep, while exposure to bright light at the wrong time can affect the body's circadian rhythm, the internal system that helps coordinate sleep and waking. However, researchers distinguish between the mere presence of light and its intensity, spectrum, duration and timing. A brief exposure to a dim, warm-coloured lamp is not equivalent to several hours under a bright, blue-rich source. Evidence also depends on individual circumstances, including work schedules and the design of the home. Some studies find associations between night-time light exposure and health outcomes, but an association alone does not establish that light caused the outcome. Scientists therefore caution against treating every observation as proof of a direct medical effect. More precise measurement is needed to identify which patterns of exposure matter most and for whom.",
+        "Cities are experimenting with ways to reduce unnecessary illumination without compromising public safety. Shielded fittings direct light towards the ground rather than into windows or the sky. Dimming systems lower output when streets are quiet, and motion sensors can provide stronger illumination only when movement is detected. Choosing a suitable colour temperature may also reduce some effects on wildlife and human circadian systems. Nevertheless, technical adjustments are not enough if a city continues to install excessive numbers of lamps or leaves them operating when they serve little purpose. Planners must consider how residents actually use a space, whether alternative safety measures are available and how lighting affects people with different needs. A dark pathway may feel unsafe to one person, while glare can make it harder for an older pedestrian to see clearly. The most effective policy is therefore likely to be selective rather than universal: illuminate where and when it is useful, measure the results, and revise the design when evidence changes. Researchers also face practical challenges when measuring night-time illumination. Satellite images can identify broad patterns, but they may miss light close to the ground or distinguish poorly between different types of source. Ground measurements provide more detail but require consistent methods and repeated visits. Seasonal changes, cloud cover and the presence of temporary events can all affect readings. A reliable assessment therefore combines mapping with local observation and records the timing of measurements. This makes it easier to determine whether a change in lighting policy produces a genuine improvement rather than a short-term difference caused by weather or activity."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is the main purpose of the passage?",
+          "opts": [
+            "To argue that all outdoor lighting should be removed",
+            "To explain the varied effects of artificial light and possible responses",
+            "To compare the cost of different street lamps",
+            "To describe how electric lighting was invented"
+          ],
+          "a": 1,
+          "why": "The passage surveys environmental and human effects, then discusses practical ways to reduce unnecessary light.",
+          "ev": "The text covers wildlife, human circadian rhythms, and city responses rather than advocating total darkness."
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Artificial light affects every animal species in the same way.",
+          "a": "FALSE",
+          "why": "The passage explains that impacts depend on species and circumstances.",
+          "ev": "“Their effects vary according to brightness, colour, timing and direction.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Some insects may be drawn away from feeding or breeding sites by lamps.",
+          "a": "TRUE",
+          "why": "This effect is stated directly in paragraph B.",
+          "ev": "“Others may be drawn away from feeding or breeding sites.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "All studies have established that night-time light directly causes specific illnesses.",
+          "a": "FALSE",
+          "why": "The passage explicitly cautions that associations do not prove causation.",
+          "ev": "“An association alone does not establish that light caused the outcome.”"
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for paragraph A.",
+          "opts": [
+            "A. Why the problem is more complex than it first appears",
+            "B. A complete ban on outdoor lighting",
+            "C. The history of wildlife conservation",
+            "D. The financial cost of electricity"
+          ],
+          "a": 0,
+          "why": "Paragraph A introduces the benefits of lighting alongside its varied and unintended effects.",
+          "ev": "“Its effects vary according to brightness, colour, timing and direction.”"
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph discusses effects on migratory birds and newly hatched turtles?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "a": 1,
+          "why": "Paragraph B gives examples of wildlife disorientation.",
+          "ev": "“Migratory birds can also become disoriented… newly hatched turtles may move towards artificial lighting.”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "The body's internal system that coordinates sleep and waking is called the ______ rhythm.",
+          "a": [
+            "circadian"
+          ],
+          "why": "The passage names this biological timing system.",
+          "ev": "“the circadian rhythm, the internal system that helps coordinate sleep and waking.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why does the writer mention older pedestrians?",
+          "opts": [
+            "To show that brighter lighting is always better",
+            "To illustrate that lighting decisions must consider different users",
+            "To argue that pedestrians should avoid streets at night",
+            "To suggest that older people prefer blue light"
+          ],
+          "a": 1,
+          "why": "The example demonstrates that glare and darkness can affect people differently.",
+          "ev": "“A dark pathway may feel unsafe to one person, while glare can make it harder for an older pedestrian to see clearly.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer believes that every city should use identical lighting rules.",
+          "a": "NO",
+          "why": "The conclusion supports selective decisions based on local use and evidence.",
+          "ev": "“The most effective policy is therefore likely to be selective rather than universal.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one system that can reduce lighting when streets are quiet. (ONE OR TWO WORDS)",
+          "a": [
+            "dimming systems",
+            "motion sensors"
+          ],
+          "why": "Both are explicitly listed as ways to avoid unnecessary illumination.",
+          "ev": "“Dimming systems lower output when streets are quiet.”"
+        },
+        {
+          "type": "Summary completion",
+          "q": "Light can be directed downward by using ______ fittings.",
+          "a": [
+            "shielded"
+          ],
+          "why": "The summary reproduces the technical measure described in paragraph D.",
+          "ev": "“Shielded fittings direct light towards the ground rather than into windows or the sky.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which measure directs stronger illumination to places only when movement is detected?",
+          "opts": [
+            "Shielded fittings",
+            "Motion sensors",
+            "Colour-temperature choice",
+            "Public consultation"
+          ],
+          "a": 1,
+          "why": "Motion sensors respond to movement.",
+          "ev": "“motion sensors can provide stronger illumination only when movement is detected.”"
+        },
+        {
+          "type": "Table completion",
+          "q": "A good lighting policy should illuminate where and when it is ______.",
+          "a": [
+            "useful"
+          ],
+          "why": "This word summarises the passage's final recommendation.",
+          "ev": "“illuminate where and when it is useful.”"
+        }
+      ],
+      "sectionLabel": "Passage 1"
+    },
+    {
+      "id": "academic-new-practice-02-02",
+      "pathway": "Academic",
+      "level": 2,
+      "zone": "IELTS Reading Arena",
+      "icon": "📘",
+      "title": "Why Some Rivers Recover Slowly",
+      "intro": "The complex relationship between water quality, habitat and restoration",
+      "paras": [
+        "A river can look cleaner long before it has recovered ecologically. When a factory reduces its discharge or a town upgrades its sewage treatment, the water may become clearer within weeks. Yet the organisms living in the river may respond much more slowly. Decades of pollution can alter sediments, remove sensitive species and simplify the physical structure of the channel. Restoration projects sometimes underestimate this delay because visible improvements are easier to communicate than changes in ecological relationships. A river is not simply a pipe carrying water from one place to another. It is a changing system linked to floodplains, groundwater, vegetation and the organisms that move through it. Recovery depends on these connections as well as on the chemical quality of the water.",
+        "One difficulty is that contaminants do not all behave in the same way. Some dissolve and move downstream, while others attach to particles that settle on the riverbed. Even after the original source has been controlled, contaminated sediment may remain and be stirred up during floods or construction. Certain substances can accumulate in the tissues of organisms, allowing concentrations to increase at higher levels of a food chain. In addition, nutrients from fertilisers and wastewater may encourage excessive plant or algal growth. When this material dies and decomposes, microorganisms consume oxygen, potentially leaving too little for fish and invertebrates. The result can be a sequence of effects: a chemical change alters plant growth, the change affects oxygen levels, and the oxygen shortage changes which species can survive. Removing one pollutant may therefore reveal other pressures that were previously less obvious. Catchment conditions can also slow improvement. Fertiliser, road runoff and fine soil may enter a river from many small sources rather than a single pipe. Rain can carry these materials into streams, while dry periods may concentrate pollutants in low-flow reaches. Because water moves across administrative boundaries, a restoration project in one town may depend on land-management decisions made upstream. Cooperation between councils, farmers, industries and residents is therefore often required. A local team may improve a short stretch of river, but long-term gains can be limited if the wider catchment continues to deliver excess nutrients or sediment.",
+        "Physical modification presents another obstacle. Rivers have often been straightened to protect farmland, deepen navigation channels or move water quickly through built-up areas. These changes can reduce the range of habitats available. Natural bends, shallow margins, submerged wood and seasonally flooded land create different flow speeds and shelter, allowing organisms with different requirements to coexist. A uniform channel may carry water efficiently but provide fewer places for young fish to feed or for invertebrates to avoid strong currents. Reintroducing a more varied channel can help, although projects must account for nearby homes, roads and flood risks. Restoration cannot simply reproduce an imagined historical river without considering the present landscape. Engineers, ecologists and local communities need to agree on which processes can realistically be restored and which constraints must remain.",
+        "Monitoring is essential because the apparent success of a project can depend on what is measured. A single sample taken after heavy rain may give a very different picture from one collected during a dry period. Counting fish alone can also be misleading: a small number of tolerant species may become abundant even while overall diversity remains low. Strong programmes combine chemical measurements with surveys of plants, invertebrates, fish and habitat, repeating them across seasons and years. Comparison sites can help distinguish the effect of restoration from wider changes in weather or land use. Public participation may add useful observations, but volunteer data need clear methods and quality checks. Most importantly, managers should be prepared to change their approach. River restoration is not a one-time repair; it is a process of testing, learning and maintaining the conditions that allow ecological functions to return. Climate change adds uncertainty to restoration plans. Longer dry spells can reduce flows and raise water temperatures, while intense rainfall may increase erosion and overwhelm drainage systems. Species that once thrived in a river may find that suitable conditions occur less often. This does not make restoration pointless; it means targets should be realistic and reviewed as conditions change. Protecting cool tributaries, reconnecting floodplains where possible and maintaining shaded banks may improve resilience. The most useful plans identify which pressures can be reduced directly and which require preparation for a changing climate, rather than promising a return to an exact past condition."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What is the central point about river recovery?",
+          "opts": [
+            "Clear water proves a river has recovered",
+            "Ecological recovery can lag behind improvements in water quality",
+            "Only fish populations need to be measured",
+            "Restoration always succeeds within weeks"
+          ],
+          "a": 1,
+          "why": "The opening contrasts rapid visible change with slower ecological response.",
+          "ev": "“The organisms living in the river may respond much more slowly.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "All contaminants move downstream in dissolved form.",
+          "a": "FALSE",
+          "why": "Some pollutants attach to particles and settle in sediment.",
+          "ev": "“Some dissolve and move downstream, while others attach to particles that settle on the riverbed.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Nutrient pollution can reduce oxygen available to aquatic animals.",
+          "a": "TRUE",
+          "why": "Decomposition of excessive plant or algal growth consumes oxygen.",
+          "ev": "“microorganisms consume oxygen, potentially leaving too little for fish and invertebrates.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The first river restoration project in the country began in 1984.",
+          "a": "NOT GIVEN",
+          "why": "No national first-project date is supplied in the passage.",
+          "ev": "The passage discusses general restoration challenges and gives no such date."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for paragraph C.",
+          "opts": [
+            "A. Why river shape affects habitat",
+            "B. The cheapest way to test water",
+            "C. A history of fishing licences",
+            "D. Why floods should be prevented completely"
+          ],
+          "a": 0,
+          "why": "Paragraph C explains how straightening and uniform channels reduce habitat variety.",
+          "ev": "“Natural bends, shallow margins, submerged wood and seasonally flooded land create different flow speeds and shelter.”"
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph describes contaminants that may remain in riverbed material after a source is controlled?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "a": 1,
+          "why": "Paragraph B discusses persistent contaminants in sediment.",
+          "ev": "“contaminated sediment may remain and be stirred up during floods or construction.”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "Contaminants may accumulate in organisms and increase at higher levels of a food ______.",
+          "a": [
+            "chain"
+          ],
+          "why": "The passage uses this exact term.",
+          "ev": "“allowing concentrations to increase at higher levels of a food chain.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why might a uniform river channel support fewer species?",
+          "opts": [
+            "It always contains too much oxygen",
+            "It offers fewer types of habitat and shelter",
+            "It prevents all water movement",
+            "It guarantees that sediments are clean"
+          ],
+          "a": 1,
+          "why": "A uniform channel lacks the varied flow conditions and refuges of a more natural river.",
+          "ev": "“A uniform channel may carry water efficiently but provide fewer places for young fish to feed or for invertebrates to avoid strong currents.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer suggests that restoration plans should ignore present-day flood risks.",
+          "a": "NO",
+          "why": "The passage says projects must account for homes, roads and flood risks.",
+          "ev": "“projects must account for nearby homes, roads and flood risks.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one group of organisms, besides fish, that monitoring may survey. (ONE WORD)",
+          "a": [
+            "invertebrates",
+            "plants"
+          ],
+          "why": "Both are listed among the biological indicators.",
+          "ev": "“surveys of plants, invertebrates, fish and habitat.”"
+        },
+        {
+          "type": "Summary completion",
+          "q": "A comparison site can help separate restoration effects from changes in weather or land ______.",
+          "a": [
+            "use"
+          ],
+          "why": "The passage lists weather and land use as wider influences.",
+          "ev": "“distinguish the effect of restoration from wider changes in weather or land use.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which approach helps reveal whether ecological functions are returning over time?",
+          "opts": [
+            "A single water sample",
+            "Repeated combined chemical and biological surveys",
+            "Counting only the most common fish",
+            "Removing all river bends"
+          ],
+          "a": 1,
+          "why": "The passage recommends combining measures over seasons and years.",
+          "ev": "“Strong programmes combine chemical measurements with surveys of plants, invertebrates, fish and habitat, repeating them across seasons and years.”"
+        },
+        {
+          "type": "Table completion",
+          "q": "River restoration is described as a process of testing, learning and ______.",
+          "a": [
+            "maintaining"
+          ],
+          "why": "The final sentence gives these three ongoing activities.",
+          "ev": "“a process of testing, learning and maintaining the conditions…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What does the passage imply about restoration?",
+          "opts": [
+            "It can be completed once and then forgotten",
+            "It requires adaptation and long-term management",
+            "It is mainly a public-relations exercise",
+            "It should always recreate the exact historical river"
+          ],
+          "a": 1,
+          "why": "Monitoring and willingness to revise plans are presented as essential.",
+          "ev": "“managers should be prepared to change their approach.”"
+        }
+      ],
+      "sectionLabel": "Passage 2"
+    },
+    {
+      "id": "academic-new-practice-02-03",
+      "pathway": "Academic",
+      "level": 2,
+      "zone": "IELTS Reading Arena",
+      "icon": "📘",
+      "title": "The Value of Repairable Products",
+      "intro": "Can product design reduce waste without shifting costs to consumers?",
+      "paras": [
+        "Many everyday products are discarded not because every component has failed, but because one small part is difficult or expensive to replace. A battery may lose capacity while the rest of a device remains usable; a zip may break on a coat whose fabric is intact; or a household appliance may stop working because a low-cost switch has failed. For decades, falling prices and rapid product development encouraged consumers to replace rather than repair. That pattern has contributed to rising material use and growing waste streams. The environmental cost of a product begins before it reaches a shop, since raw materials must be extracted, processed and transported. Extending a product's useful life can spread those impacts over a longer period, although the benefit depends on the energy efficiency of the old item and the resources needed for repair.",
+        "Design choices determine whether repair is practical. Products assembled with standard screws can often be opened using common tools, whereas glued or welded cases may require specialist equipment and risk damage during disassembly. Manufacturers can improve repairability by making spare parts available, publishing service information and avoiding unnecessary changes to component sizes between models. Modular design, in which a failed component can be replaced independently, is especially useful for items such as computers or power tools. Yet modularity can add weight, cost or complexity, so it is not automatically the best option for every product. Designers must consider how likely parts are to fail, how easily they can be tested and whether a repair will restore safety and performance. A product that can be opened but cannot be reassembled reliably is not meaningfully repairable. Consumers also need information that is understandable at the point of purchase. A repair score is of limited value if shoppers cannot tell whether it reflects access to spare parts, ease of opening, software support or expected durability. Independent testing and consistent definitions can make comparisons more meaningful. Retailers may help by displaying the likely cost of common repairs or by offering a clear route to authorised and independent services. Such information does not eliminate price differences, but it allows buyers to consider the total cost of ownership instead of relying only on the initial price tag.",
+        "The economics of repair are shaped by more than the price of a spare part. Labour, transport, diagnostic time and the availability of trained technicians all matter. In areas with few repair services, sending an appliance to a distant workshop may cost more than replacing it. Consumers may also hesitate when a repair offers no guarantee that another component will not fail soon afterwards. Independent repair businesses argue that access to manuals, diagnostic software and replacement parts allows them to compete and develop specialist skills. Some manufacturers respond that restricting access protects intellectual property or prevents unsafe repairs. These concerns can be legitimate in particular contexts, especially where high voltage, pressure or software security is involved. Policy therefore needs to distinguish between reasonable safety controls and restrictions that mainly prevent owners from maintaining products they already possess.",
+        "Repairability labels and durability standards are possible ways to influence the market, but their usefulness depends on transparency. A single score may hide important differences: one product might have readily available parts but be difficult to open, while another is easy to dismantle but lacks repair information. Clear criteria can help buyers compare expected service life, spare-part availability and the tools required for common repairs. Public procurement can also encourage durable products by considering maintenance costs over several years rather than choosing the lowest purchase price. Even so, repair cannot solve every waste problem. Some older devices consume substantially more energy than modern alternatives, and certain materials are difficult to recover safely. The strongest strategy combines longer product life, efficient recycling, responsible purchasing and designs that make maintenance straightforward. The aim is not to keep every object forever, but to avoid discarding useful products unnecessarily. Behaviour and convenience remain important even when products are designed well. People may not repair an item if they lack time, confidence or access to a trustworthy technician. Community repair events, tool libraries and vocational training can help build skills, while warranties that remain valid after approved repairs can reduce uncertainty. These initiatives work best when they complement reliable product design and parts availability. If repair is inconvenient or the replacement component is unavailable, public enthusiasm alone is unlikely to overcome the obstacle. A successful repair culture requires both products that can be maintained and services that make maintenance realistic."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "Why are some products discarded even when most of the item still works?",
+          "opts": [
+            "All products become illegal after one year",
+            "A single failed part may be difficult or costly to replace",
+            "Consumers are unable to identify materials",
+            "Recycling is always more expensive than repair"
+          ],
+          "a": 1,
+          "why": "The passage begins with examples of products discarded because one component fails.",
+          "ev": "“one small part is difficult or expensive to replace.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Repairing an older product always has a lower environmental impact than buying a new one.",
+          "a": "FALSE",
+          "why": "The environmental benefit depends partly on the old product's energy efficiency and repair resources.",
+          "ev": "“the benefit depends on the energy efficiency of the old item and the resources needed for repair.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Standard screws can make a product easier to open for repair.",
+          "a": "TRUE",
+          "why": "The passage directly contrasts screws with glued or welded cases.",
+          "ev": "“Products assembled with standard screws can often be opened using common tools.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Most consumers in the survey preferred green packaging over lower prices.",
+          "a": "NOT GIVEN",
+          "why": "No consumer survey or preference percentages are mentioned.",
+          "ev": "The passage discusses repair economics and design, not survey results."
+        },
+        {
+          "type": "Matching headings",
+          "q": "Choose the best heading for paragraph B.",
+          "opts": [
+            "A. Design decisions that make repairs possible",
+            "B. The history of household advertising",
+            "C. Why all products should be modular",
+            "D. How to dispose of dangerous waste"
+          ],
+          "a": 0,
+          "why": "Paragraph B compares assembly and design features that help or hinder repair.",
+          "ev": "“Design choices determine whether repair is practical.”"
+        },
+        {
+          "type": "Matching information",
+          "q": "Which paragraph explains that labour, transport and diagnostic time affect repair costs?",
+          "opts": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "a": 2,
+          "why": "Paragraph C discusses the broader economics of repair.",
+          "ev": "“Labour, transport, diagnostic time and the availability of trained technicians all matter.”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "A design in which a failed component can be replaced independently is described as ______.",
+          "a": [
+            "modular"
+          ],
+          "why": "The passage names this design approach.",
+          "ev": "“Modular design, in which a failed component can be replaced independently…”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "Why might manufacturers restrict access to manuals or parts?",
+          "opts": [
+            "They may cite intellectual property or safety concerns",
+            "They want all products to be recyclable by hand",
+            "They are legally required to destroy old devices",
+            "They do not use diagnostic software"
+          ],
+          "a": 0,
+          "why": "The passage gives these as manufacturers' stated concerns.",
+          "ev": "“restricting access protects intellectual property or prevents unsafe repairs.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer argues that modular design is automatically the best choice for every product.",
+          "a": "NO",
+          "why": "The passage says modularity can add weight, cost or complexity.",
+          "ev": "“it is not automatically the best option for every product.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one way manufacturers can support repair besides supplying spare parts. (ONE OR TWO WORDS)",
+          "a": [
+            "publishing service information",
+            "service information",
+            "providing manuals"
+          ],
+          "why": "Publishing service information is specifically recommended.",
+          "ev": "“making spare parts available, publishing service information…”"
+        },
+        {
+          "type": "Summary completion",
+          "q": "Repairability labels are useful only when their criteria are ______.",
+          "a": [
+            "transparent"
+          ],
+          "why": "The opening sentence of paragraph D states this condition.",
+          "ev": "“their usefulness depends on transparency.”"
+        },
+        {
+          "type": "Matching features",
+          "q": "Which measure can encourage manufacturers to consider maintenance costs over several years?",
+          "opts": [
+            "Public procurement",
+            "Glued cases",
+            "Short loan periods",
+            "Product advertising"
+          ],
+          "a": 0,
+          "why": "The passage identifies procurement as a way to reward durable products.",
+          "ev": "“Public procurement can also encourage durable products by considering maintenance costs over several years…”"
+        },
+        {
+          "type": "Table completion",
+          "q": "The aim is to avoid discarding products that are still ______ unnecessarily.",
+          "a": [
+            "useful"
+          ],
+          "why": "The final sentence states the overall aim.",
+          "ev": "“avoid discarding useful products unnecessarily.”"
+        }
+      ],
+      "sectionLabel": "Passage 3"
+    }
+  ],
+  "tests": [
+    {
+      "title": "Academic Full-Length Reading Practice Test 2",
+      "pathway": "Academic",
+      "durationMinutes": 60,
+      "fullLength": true,
+      "passageIds": [
+        "academic-new-practice-02-01",
+        "academic-new-practice-02-02",
+        "academic-new-practice-02-03"
+      ]
+    }
+  ]
+}
