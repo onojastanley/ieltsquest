@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "description": "Vocabulary Village starter missions. Original learning content; not an official IELTS resource.",
+  "passages": [
+    {
+      "id": "vocab-context-clues-01",
+      "pathway": "Vocabulary Village",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🌱",
+      "title": "The Power of Context Clues",
+      "intro": "Learn how surrounding words reveal unfamiliar vocabulary",
+      "paras": [
+        "Readers do not need to understand every word to follow a text. Often, the surrounding sentence provides a clue to an unfamiliar term. A writer might describe a path as 'treacherous' and then explain that it was narrow, icy, and dangerous. The details help readers infer the meaning without consulting a dictionary.",
+        "Another useful technique is to notice contrast. If a plan is described as 'economical' but the next sentence says it costs very little to operate, the explanation reinforces the meaning. Signal words such as 'however', 'although', and 'in contrast' may show that the next idea differs from the previous one.",
+        "Context clues are not always conclusive. A word can have several meanings, and a short sentence may not provide enough evidence to choose between them. Strong readers make a sensible prediction, continue reading, and revise their interpretation if later details do not fit."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "What does the example suggest about the word 'treacherous'?",
+          "opts": [
+            "It describes a safe and comfortable route.",
+            "It describes a route that may be dangerous.",
+            "It means a route is very short.",
+            "It means a route is well signposted."
+          ],
+          "a": 1,
+          "why": "The path is described as narrow, icy and dangerous, giving clues to the meaning.",
+          "ev": "“narrow, icy, and dangerous.”"
+        },
+        {
+          "type": "Short answer",
+          "q": "Name one signal word that can introduce a contrast.",
+          "a": [
+            "however",
+            "although",
+            "in contrast"
+          ],
+          "why": "The passage lists these expressions as signals that ideas may differ.",
+          "ev": "“such as 'however', 'although', and 'in contrast'.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "Context clues always provide enough information to identify a word's meaning with certainty.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The final paragraph says context clues are not always conclusive.",
+          "ev": "“Context clues are not always conclusive.”"
+        },
+        {
+          "type": "Multiple choice",
+          "q": "What should a reader do if later details do not support an initial guess?",
+          "opts": [
+            "Ignore the later details.",
+            "Stop reading immediately.",
+            "Revise the interpretation.",
+            "Assume the word has no meaning."
+          ],
+          "a": 2,
+          "why": "Readers are advised to revise their interpretation when later details do not fit.",
+          "ev": "“revise their interpretation if later details do not fit.”"
+        }
+      ]
+    },
+    {
+      "id": "vocab-paraphrase-power-01",
+      "pathway": "Vocabulary Village",
+      "level": 1,
+      "zone": "Vocabulary Village",
+      "icon": "🧭",
+      "title": "Spotting Paraphrases",
+      "intro": "Recognise when different words express the same idea",
+      "paras": [
+        "IELTS reading questions frequently express an idea differently from the passage. This is known as paraphrasing. For example, a passage may say that a project 'was postponed', while a question says it 'did not begin at the planned time'. The vocabulary changes, but the central meaning remains similar.",
+        "Paraphrases can use synonyms, a different grammatical form, or a longer explanation. 'Reduce' may become 'make smaller'; 'a rapid increase' may become 'grew quickly'. Readers should compare the meaning of the whole statement rather than search only for identical words.",
+        "Some words change the strength of a claim. 'Many participants' does not mean 'all participants', and 'may improve' does not mean 'will definitely improve'. Paying attention to these small differences is essential when deciding whether a statement is supported by a text."
+      ],
+      "qs": [
+        {
+          "type": "Multiple choice",
+          "q": "Which phrase best paraphrases 'was postponed'?",
+          "opts": [
+            "Was cancelled forever",
+            "Did not happen at the planned time",
+            "Finished earlier than expected",
+            "Was made more expensive"
+          ],
+          "a": 1,
+          "why": "Postponed means delayed until a later time.",
+          "ev": "“did not begin at the planned time.”"
+        },
+        {
+          "type": "True / False / Not Given",
+          "q": "The passage says that 'many participants' always means every participant.",
+          "opts": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The passage explicitly contrasts many with all.",
+          "ev": "“'Many participants' does not mean 'all participants'.”"
+        },
+        {
+          "type": "Sentence completion",
+          "q": "A passage's phrase 'a rapid increase' could be paraphrased as 'grew ______'.",
+          "a": [
+            "quickly",
+            "rapidly"
+          ],
+          "why": "The passage gives this exact paraphrase example.",
+          "ev": "“'a rapid increase' may become 'grew quickly'.”"
+        },
+        {
+          "type": "Yes / No / Not Given",
+          "q": "The writer recommends looking only for identical words when answering questions.",
+          "opts": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "a": 1,
+          "why": "The writer says to compare the meaning of the whole statement instead of searching only for identical words.",
+          "ev": "“compare the meaning of the whole statement rather than search only for identical words.”"
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Vocabulary Village: Starter Mission 1",
+      "pathway": "Vocabulary Village",
+      "durationMinutes": 8,
+      "fullLength": false,
+      "passageIds": [
+        "vocab-context-clues-01"
+      ]
+    },
+    {
+      "title": "Vocabulary Village: Paraphrase Mission",
+      "pathway": "Vocabulary Village",
+      "durationMinutes": 8,
+      "fullLength": false,
+      "passageIds": [
+        "vocab-paraphrase-power-01"
+      ]
+    }
+  ]
+}

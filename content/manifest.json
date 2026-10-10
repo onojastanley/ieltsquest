@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    "academic-full-test-1.json",
+    "general-training-full-test-1.json",
+    "vocabulary-village-starter.json",
+    "vocabulary-village-advanced.json"
+  ]
+}
